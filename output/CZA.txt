@@ -1,0 +1,186 @@
+{
+    "question": {
+        "content": "[[☃ article-block 1]]\n",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "$\\huge{1. 找尋靈感}$\n\n$\\\\$\n\n想像一下，你的卡片會有什麼內容呢？ 給對方的祝福話語、卡片背景音樂...一起看看如何創作一張生日卡片吧！\n\n$\\\\$ \n\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n$\\\\$\n\n$\\Large{　}$　 \n$\n\\require{enclose}\n\\enclose{box}[mathcolor=\"#4cae4c\",mathbackground=\"#5cb85c\"]{\\large\\color{white}{ 　下一步 ❯　}}\n\\\\\n$ \n\n$\\\\$ \n\n[[☃ article-block 5]]\n",
+                    "background": "",
+                    "blockTitle": "",
+                    "widgets": {"article-block 1": {
+                            "graded": false,
+                            "id": "article-block 1",
+                            "options": {
+                                "articleBlock": "\n\n\n\n[[☃ article-block 0]]\n\n[[☃ article-block 1]]",
+                                    "background": "#def",
+                                    "blockTitle":"🔖  偵探時間",
+                                    "widgets": {"article-block 0": {
+                                        "type": "article-block",
+                                        "graded": false,
+                                        "id": "article-block 0",
+                                        "options": {
+                                            "articleBlock": " 一起試玩 「生日卡片」在這個遊戲裡面你發現了什麼呢？把這些線索記錄下來吧！ \n\n[[☃ image 1]]",
+                                            "background": "aliceblue",
+                                            "blockTitle": "",
+                                            "widgets": {
+                                                "image 1": {
+                                                    "graded": true,
+                                                    "options": {
+                                                    "type": "image",
+                                                        "useBoxSize": false,
+                                                        "backgroundImage": {
+                                                            "url": ""
+                                                        },
+                                                        "labels": [],
+                                                        "maxImageSize": 640
+                                                    },
+                                                    "version": {
+                                                        "major": 0,
+                                                        "minor": 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "version": {
+                                            "major": 0,
+                                            "minor": 0
+                                        }
+                                    },"article-block 1": {
+                                        "type": "article-block",
+                                        "graded": false,
+                                        "id": "article-block 1",
+                                        "options": {
+                                            "articleBlock": "  生日卡片（成果範例）◀︎ 試玩遊戲 • 點一下「綠色旗子」符號，開始• 點一下「紅色圓形」符號，停止✅ 遊戲內容：滑鼠點擊愛心，愛心會說話並跳動，還會有音樂播放 \n\n[[☃ image 1]]",
+                                            "background": "aliceblue",
+                                            "blockTitle": "",
+                                            "widgets": {
+                                                "image 1": {
+                                                    "graded": true,
+                                                    "options": {
+                                                    "type": "image",
+                                                        "useBoxSize": false,
+                                                        "backgroundImage": {
+                                                            "url": ""
+                                                        },
+                                                        "labels": [],
+                                                        "maxImageSize": 640
+                                                    },
+                                                    "version": {
+                                                        "major": 0,
+                                                        "minor": 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "version": {
+                                            "major": 0,
+                                            "minor": 0
+                                        }
+                                    } }},"type": "article-block",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 2": {
+                            "graded": false,
+                            "id": "article-block 2",
+                            "options": {
+                                "articleBlock": "\n\n",
+                                    "background": "#def",
+                                    "blockTitle":"🔖  「創作生日卡片」裡面有什麼呢？",
+                                    "widgets": { }},"type": "article-block",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "graded": false,
+                            "id": "article-block 3",
+                            "options": {
+                                "articleBlock": "\n\n",
+                                "background": "#e0f0f5",
+                                "blockTitle":"💬  玩一玩，想一想",
+                                "widgets": { }},"type": "article-block",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "graded": false,
+                            "id": "article-block 4",
+                            "options": {
+                                "articleBlock": "\n\n",
+                                    "background": "#def",
+                                    "blockTitle":"🔖  開始製作「生日卡片」吧！",
+                                    "widgets": { }},"type": "article-block",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 5": {
+                            "graded": false,
+                            "id": "article-block 5",
+                            "options": {
+                                "articleBlock": "\n\n\n\n[[☃ article-block 1]]",
+                                                "background": "#f5f5dc",
+                                                "blockTitle": "📍TIPS:  |",
+                                                "widgets": {"article-block 1": {
+                                        "type": "article-block",
+                                        "graded": false,
+                                        "id": "article-block 1",
+                                        "options": {
+                                            "articleBlock": " + About本著作係由均一教育平台(Junyi Academy)、Scratch台灣愛好者社團(Friends of Scratch-TW) 進行中文化翻譯與衍生創作，採用創用 CC 姓名標示-非商業性-相同方式分享 4.0 國際 授權條款釋出。內容參考自：製作一張生日卡片(MIT Scratch)、 節日卡片教學 (Havard ScratchEd)。Scratch 是一種程式語言和一個線上社群，在這裡孩子們可以與來自世界各地的人們編寫和共享互動媒體，如故事，遊戲，動畫。隨著孩子使用 Scratch，他們有邏輯系統地學習，創造性地思考，並進行協作。Scratch是由麻省理工學院媒體實驗室的終身幼兒園組所設計與維護。+ ShareFacebookLINEGoogleClassroom \n\n[[☃ image 1]]",
+                                            "background": "",
+                                            "blockTitle": "",
+                                            "widgets": {
+                                                "image 1": {
+                                                    "graded": true,
+                                                    "options": {
+                                                    "type": "image",
+                                                        "useBoxSize": false,
+                                                        "backgroundImage": {
+                                                            "url": ""
+                                                        },
+                                                        "labels": [],
+                                                        "maxImageSize": 640
+                                                    },
+                                                    "version": {
+                                                        "major": 0,
+                                                        "minor": 0
+                                                    }
+                                                }
+                                            }
+                                        },
+                                        "version": {
+                                            "major": 0,
+                                            "minor": 0
+                                        }
+                                    } }},"type": "article-block",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }
+                    }
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}
