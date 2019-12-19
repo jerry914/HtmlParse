@@ -2,7 +2,6 @@ import requests
 from bs4 import BeautifulSoup
 import os
 
-
 rootUrl = 'https://sites.google.com/junyiacademy.org/linkit7697/'
 route = 'getstart/基礎電學觀念'
 url = rootUrl+route
@@ -10,7 +9,6 @@ res = requests.get(url)
 soup = BeautifulSoup(res.text, 'html.parser')
 fileRootPath = str('D:/workspace/HtmlParseBot/Linkit7697Learning Resources/img/')
 filePath = fileRootPath+route
-
 
 sectionBlock = soup.find_all('section')
 imgBlock = soup.find_all('small')
