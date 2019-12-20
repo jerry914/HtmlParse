@@ -4,7 +4,7 @@ import os
 
 
 rootUrl = 'https://sites.google.com/junyiacademy.org/linkit7697/'
-route = 'getstart/基礎電學觀念'
+route = 'getstart/基礎電學觀念/'
 url = rootUrl+route
 res = requests.get(url)
 soup = BeautifulSoup(res.text, 'html.parser')
