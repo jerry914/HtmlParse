@@ -1,0 +1,69 @@
+{
+    "article-block 1": {
+        "id": "article-block 1",
+        "type": "article-block",
+        "graded": false,
+        "options": {
+            "background": "#fff",
+            "blockTitle": "",
+            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
+            "widgets": {
+                "image 1": {
+                    "graded": true,
+                    "id": "image 1",
+                    "options": {
+                        "aspectRatio": 0.3352941176470588,
+                        "backgroundImage": {
+                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/'''+route+'''+/'''+str(idx)+'''.gif",
+                            "width": 435
+                        },
+                        "box": [],
+                        "labels": [],
+                        "maxImageSize": 435,
+                        "range": [
+                            [
+                                0,
+                                10
+                            ],
+                            [
+                                0,
+                                10
+                            ]
+                        ],
+                        "useBoxSize": false
+                    },
+                    "type": "image",
+                    "version": {
+                        "major": 0,
+                        "minor": 0
+                    }
+                },
+                "iframe 1": {
+                    "type": "iframe",
+                    "graded": true,
+                    "options": {
+                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/'''+route+'/'+str(idx)+'''.html",
+                        "settings": [
+                            {
+                                "name": "",
+                                "value": ""
+                            }
+                        ],
+                        "width": 560,
+                        "height": 320
+                    },
+                    "version": {
+                        "major": 0,
+                        "minor": 0
+                    }
+                }
+            },
+            "expandable": false,
+            "expanded": false
+        },
+        "version": {
+            "major": 0,
+            "minor": 0
+        }
+    }
+}

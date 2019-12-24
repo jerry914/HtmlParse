@@ -1,0 +1,21 @@
+{
+    "iframe 1": {
+        "type": "iframe",
+        "graded": true,
+        "options": {
+            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/'''+route+'/'+str(idx)+'''.html",
+            "settings": [
+                {
+                    "name": "",
+                    "value": ""
+                }
+            ],
+            "width": 560,
+            "height": 320
+        },
+        "version": {
+            "major": 0,
+            "minor": 0
+        }
+    }
+}
