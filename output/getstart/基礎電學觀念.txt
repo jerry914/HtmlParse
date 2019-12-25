@@ -13,5692 +13,726 @@
                     "expandable": false,
                     "expanded": false,
                     "widgets": {
-                        {
-    "article-block 0": {
-        "id": "article-block 0",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                
-                
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-},
-{
-    "article-block 1": {
-        "id": "article-block 1",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/18.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/18.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
+                        "article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n在開始使用LinkIt 7697之前讓我們先了解一些基本電學的觀念吧",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n電壓與接地",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/1.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n圖1：電壓與接地說明我們用電池來說明：電壓是高電位與低電位間的「電位差」，代表推動電流能力的大小，常用單位是「伏特」可簡寫為V（如圖1）。高電位稱為正極低電位稱作負極或是接地（簡稱GND）LinkIt的工作電壓通常是5V，也提供其他的供電方式。",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/1.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n圖2：水壓對比電壓 ",
+                                "widgets": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },
 
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 2": {
-        "id": "article-block 2",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/35.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/35.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/35.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/35.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/2.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 5": {
+                            "id": "article-block 5",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n電流與方向",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/3.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n圖3：水位差產生水流• 電在導體中流動的現象，稱為電流。常見的導體包含銅、鐵...等等。• 電流會從正極流向負極（如圖3）。如果電流固定往同一個方向流動，我們稱為直流電。常見的電線材質為銅",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/4.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 7": {
+                            "id": "article-block 7",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n圖4：水流對比電流 • 如果沒有設備，電流從高電位流向低電位，會造成短路！",
+                                "widgets": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/2.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },
 
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 3": {
-        "id": "article-block 3",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/52.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/52.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/52.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/52.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/52.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/52.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/5.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 8": {
+                            "id": "article-block 8",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n沒有形成電流的常見原因",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/6.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 9": {
+                            "id": "article-block 9",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n圖5：常見電流不導通的原因如果導線兩端都接在正極或都接在負極沒有電位差所以沒有電壓  →  燈泡沒電不會發光如果電線中間被剪斷了正極與負極沒有導體相連  →  燈泡沒電不會發光",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/7.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 10": {
+                            "id": "article-block 10",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n圖6：常見水流不導通的原因 ",
+                                "widgets": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/3.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },
 
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 4": {
-        "id": "article-block 4",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/69.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/69.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/69.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/69.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/69.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/69.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/69.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/69.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 5": {
-        "id": "article-block 5",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/86.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/86.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/86.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/86.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/86.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/86.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/86.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/86.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/86.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/86.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 6": {
-        "id": "article-block 6",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/103.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/103.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/103.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/103.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/103.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/103.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/103.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/103.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/103.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/103.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/103.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/103.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 7": {
-        "id": "article-block 7",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/120.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/120.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 8": {
-        "id": "article-block 8",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/137.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/137.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 9": {
-        "id": "article-block 9",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 9": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/154.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 9": {
-        "graded": true,
-        "id": "image 9",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/154.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 10": {
-        "id": "article-block 10",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 9": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 10": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/171.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 9": {
-        "graded": true,
-        "id": "image 9",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 10": {
-        "graded": true,
-        "id": "image 10",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/171.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 11": {
-        "id": "article-block 11",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 9": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 10": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 11": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/188.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 9": {
-        "graded": true,
-        "id": "image 9",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 10": {
-        "graded": true,
-        "id": "image 10",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 11": {
-        "graded": true,
-        "id": "image 11",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/188.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 12": {
-        "id": "article-block 12",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 9": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 10": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 11": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 12": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/205.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 9": {
-        "graded": true,
-        "id": "image 9",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 10": {
-        "graded": true,
-        "id": "image 10",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 11": {
-        "graded": true,
-        "id": "image 11",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 12": {
-        "graded": true,
-        "id": "image 12",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/205.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 13": {
-        "id": "article-block 13",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 9": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 10": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 11": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 12": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 13": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/222.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 9": {
-        "graded": true,
-        "id": "image 9",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 10": {
-        "graded": true,
-        "id": "image 10",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 11": {
-        "graded": true,
-        "id": "image 11",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 12": {
-        "graded": true,
-        "id": "image 12",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 13": {
-        "graded": true,
-        "id": "image 13",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/222.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-{
-    "article-block 14": {
-        "id": "article-block 14",
-        "type": "article-block",
-        "graded": false,
-        "options": {
-            "background": "#fff",
-            "blockTitle": "",
-            "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n",
-            "widgets": {
-                {
-    "iframe 1": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 2": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 3": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 4": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 5": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 6": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 7": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 8": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 9": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 10": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 11": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 12": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 13": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "iframe 14": {
-        "type": "iframe",
-        "graded": true,
-        "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/239.html",
-            "settings": [
-                {
-                    "name": "",
-                    "value": ""
-                }
-            ],
-            "width": 560,
-            "height": 320
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-                {
-    "image 1": {
-        "graded": true,
-        "id": "image 1",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 2": {
-        "graded": true,
-        "id": "image 2",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 3": {
-        "graded": true,
-        "id": "image 3",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 4": {
-        "graded": true,
-        "id": "image 4",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 5": {
-        "graded": true,
-        "id": "image 5",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 6": {
-        "graded": true,
-        "id": "image 6",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 7": {
-        "graded": true,
-        "id": "image 7",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 8": {
-        "graded": true,
-        "id": "image 8",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 9": {
-        "graded": true,
-        "id": "image 9",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 10": {
-        "graded": true,
-        "id": "image 10",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 11": {
-        "graded": true,
-        "id": "image 11",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 12": {
-        "graded": true,
-        "id": "image 12",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 13": {
-        "graded": true,
-        "id": "image 13",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}{
-    "image 14": {
-        "graded": true,
-        "id": "image 14",
-        "options": {
-            "aspectRatio": 0.3352941176470588,
-            "backgroundImage": {
-                "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/239.gif",
-                "width": 435
-            },
-            "box": [],
-            "labels": [],
-            "maxImageSize": 435,
-            "range": [
-                [
-                    0,
-                    10
-                ],
-                [
-                    0,
-                    10
-                ]
-            ],
-            "useBoxSize": false
-        },
-        "type": "image",
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-
-            },
-            "expandable": false,
-            "expanded": false
-        },
-        "version": {
-            "major": 0,
-            "minor": 0
-        }
-    }
-}
-
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/8.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 11": {
+                            "id": "article-block 11",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n讓我們回想一下",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/9.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 12": {
+                            "id": "article-block 12",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n1. 正極又稱做高電位（＋）、負極又稱為低電位（－）2. 正負極之間產生壓差（或稱電位差） 3. 有電位差，才有電流的產生4. 電流從高電位流向低電位5. 沒有電位差或電路中斷，電就不會導通",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 13": {
+                            "id": "article-block 13",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n數位訊號在LinkIt 7697中：以數位訊號進行輸出或輸入時，我們都將電壓分為高電位（5V）與低電位（0V）兩種，分別表示為 1 與 0 。",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/11.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 14": {
+                            "id": "article-block 14",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n類比訊號在LinkIt 7697中：■ 以類比訊號輸出時，我們將電壓在高電位（5V）與低電位（0V）之間切割成256份（0~255），可以進行256段的控制。■ 以類比訊號輸入時，高低電位之間會切割更仔細分為4096份（0~4095），可以分辨4096種不同的狀況。資料來源",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/11.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 15": {
+                            "id": "article-block 15",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n分辨「數位模組」、「類比模組」舉例來說：■ 按鈕開關模組只有開與關「兩種」狀況，我們稱它是一種數位模組。■ 光線感應模組可以感應「多種」亮度，我們稱它是一種類比模組。所以，只有「兩種」效果的模組，就是數位模組，而有「多種」效果的模組，就是類比模組。",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/12.gif",
+                                            "width": 435
+                                        },
+                                        "box": [],
+                                        "labels": [],
+                                        "maxImageSize": 435,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
                         "explanation 1": {
                             "graded": false,
                             "id": "explanation 1",

@@ -13,7 +13,7 @@
                     "expandable": false,
                     "expanded": false,
                     "widgets": {
-                        ARTICLEBLOCK
+                        ARTICLEBLOCK,
                         "explanation 1": {
                             "graded": false,
                             "id": "explanation 1",

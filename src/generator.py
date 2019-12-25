@@ -23,7 +23,6 @@ def artBlk_generate(num,Type):
 
 def artBlk_wigit_generate(num,Type,route,idx):
     resuleString = ''
-    artTemplete = junyiJSONgenerate.JSON_open('src\Templete\JSONartblo')
     if(Type == 'm'):
         for n in range(num):
             templete = junyiJSONgenerate.JSON_open('src\Templete\JSONimage')
@@ -47,12 +46,14 @@ def cont_wiget_generate(sectionText,sectionImgCount,sectionBubbleCount,route):
     imgIdx = 1
     result =  ''
     for a in range(len(sectionText)-2):
-        articleBlock = templete.replace("ARTICLEIDX",str(a))
-        articleBlock = articleBlock.replace("IFRAMEBLOCK",artBlk_wigit_generate(a,'f',route,bubbleIdx))
-        articleBlock = articleBlock.replace("IMGBLOCK",artBlk_wigit_generate(a,'m',route,imgIdx))
-        bubbleIdx+=len(sectionBubbleCount)
-        imgIdx+=len(sectionImgCount)
+        articleBlock = ''
+        articleBlock = templete.replace("ARTICLEIDX",str(a+1))
+        articleBlock = articleBlock.replace("ARTICLETEXT",sectionText[a+1])
+        articleBlock = articleBlock.replace("IFRAMEBLOCK",artBlk_wigit_generate(sectionBubbleCount[a+1],'f',route,bubbleIdx))
+        articleBlock = articleBlock.replace("IMGBLOCK",artBlk_wigit_generate(sectionImgCount[a+1],'m',route,imgIdx))
+        bubbleIdx+=sectionBubbleCount[a]
+        imgIdx+=sectionImgCount[a]
         result+=articleBlock
 
-    return result
+    return result[:-1]
                         
