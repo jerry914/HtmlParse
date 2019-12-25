@@ -1,9 +1,9 @@
 {
-    "iframe 1": {
+    "iframe IFRAMEIDX": {
         "type": "iframe",
         "graded": true,
         "options": {
-            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/'''+route+'/'+str(idx)+'''.html",
+            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/ROUTE/BUBBLEIDX.html",
             "settings": [
                 {
                     "name": "",

@@ -1,6 +1,6 @@
 {
     "question": {
-        "content": "# TITLE\n\n[[☃ article-block 1]]",
+        "content": "# CONTENTTITLE\n\n[[☃ article-block 1]]",
         "images": {},
         "widgets": {
             "article-block 1": {
@@ -13,6 +13,7 @@
                     "expandable": false,
                     "expanded": false,
                     "widgets": {
+                        ARTICLEBLOCK
                         "explanation 1": {
                             "graded": false,
                             "id": "explanation 1",
