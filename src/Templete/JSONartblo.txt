@@ -5,7 +5,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\nARTICLETEXT",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\nARTICLESTYLEARTICLETEXT",
                                 "widgets": {
                                     IFRAMEBLOCK
                                     IMGBLOCK

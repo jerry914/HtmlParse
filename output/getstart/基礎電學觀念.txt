@@ -1,45 +1,26 @@
 {
     "question": {
-        "content": "#   0. 初次使用  \nLinkit 7697入門\n\n[[☃ article-block 1]]",
+        "content": "[[☃ article-block 1]]",
         "images": {},
         "widgets": {
             "article-block 1": {
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "# SUBTITLE\nSECTION[1]\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
-                    "background": "#a9cfb9",
+                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 基礎電學觀念\n在開始使用LinkIt 7697之前讓我們先了解一些基本電學的觀念吧\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
+                    "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
                     "expanded": false,
                     "widgets": {
-                        "article-block 1": {
-                            "id": "article-block 1",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n在開始使用LinkIt 7697之前讓我們先了解一些基本電學的觀念吧",
-                                "widgets": {
-                                    
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 2": {
+                        "article-block 2": {
                             "id": "article-block 2",
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n電壓與接地",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 電壓與接地",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -49,11 +30,13 @@
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
                                             "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/1.gif",
-                                            "width": 435
+                                            "width": 70,
+                                            "height": 108
                                         },
-                                        "box": [],
+                                        "box": [70,
+                                            108],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,
@@ -96,12 +79,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/1.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/2.gif",
+                                            "width": 572,
+                                            "height": 323
                                         },
-                                        "box": [],
+                                        "box": [572,
+                                            323],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -163,12 +148,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/2.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/3.gif",
+                                            "width": 572,
+                                            "height": 322
                                         },
-                                        "box": [],
+                                        "box": [572,
+                                            322],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -200,9 +187,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n電流與方向",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 電流與方向",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -211,12 +198,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/3.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/4.gif",
+                                            "width": 70,
+                                            "height": 108
                                         },
-                                        "box": [],
+                                        "box": [70,
+                                            108],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,
@@ -259,12 +248,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/4.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/5.gif",
+                                            "width": 572,
+                                            "height": 350
                                         },
-                                        "box": [],
+                                        "box": [572,
+                                            350],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -326,12 +317,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/5.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/6.gif",
+                                            "width": 572,
+                                            "height": 321
                                         },
-                                        "box": [],
+                                        "box": [572,
+                                            321],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -363,9 +356,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n沒有形成電流的常見原因",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 沒有形成電流的常見原因",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -374,12 +367,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/6.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/7.gif",
+                                            "width": 70,
+                                            "height": 108
                                         },
-                                        "box": [],
+                                        "box": [70,
+                                            108],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,
@@ -422,12 +417,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/7.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/8.gif",
+                                            "width": 572,
+                                            "height": 274
                                         },
-                                        "box": [],
+                                        "box": [572,
+                                            274],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -489,12 +486,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/8.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/9.gif",
+                                            "width": 572,
+                                            "height": 382
                                         },
-                                        "box": [],
+                                        "box": [572,
+                                            382],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -526,9 +525,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n讓我們回想一下",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 讓我們回想一下",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -537,12 +536,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/9.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/10.gif",
+                                            "width": 170,
+                                            "height": 170
                                         },
-                                        "box": [],
+                                        "box": [170,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 170,
                                         "range": [
                                             [
                                                 0,
@@ -593,9 +594,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n數位訊號在LinkIt 7697中：以數位訊號進行輸出或輸入時，我們都將電壓分為高電位（5V）與低電位（0V）兩種，分別表示為 1 與 0 。",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 數位訊號在LinkIt 7697中：以數位訊號進行輸出或輸入時，我們都將電壓分為高電位（5V）與低電位（0V）兩種，分別表示為 1 與 0 。",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -605,11 +606,13 @@
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
                                             "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/11.gif",
-                                            "width": 435
+                                            "width": 70,
+                                            "height": 170
                                         },
-                                        "box": [],
+                                        "box": [70,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,
@@ -641,9 +644,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n類比訊號在LinkIt 7697中：■ 以類比訊號輸出時，我們將電壓在高電位（5V）與低電位（0V）之間切割成256份（0~255），可以進行256段的控制。■ 以類比訊號輸入時，高低電位之間會切割更仔細分為4096份（0~4095），可以分辨4096種不同的狀況。資料來源",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 類比訊號在LinkIt 7697中：■ 以類比訊號輸出時，我們將電壓在高電位（5V）與低電位（0V）之間切割成256份（0~255），可以進行256段的控制。■ 以類比訊號輸入時，高低電位之間會切割更仔細分為4096份（0~4095），可以分辨4096種不同的狀況。資料來源",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -652,12 +655,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/11.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/12.gif",
+                                            "width": 70,
+                                            "height": 170
                                         },
-                                        "box": [],
+                                        "box": [70,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,
@@ -689,9 +694,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n分辨「數位模組」、「類比模組」舉例來說：■ 按鈕開關模組只有開與關「兩種」狀況，我們稱它是一種數位模組。■ 光線感應模組可以感應「多種」亮度，我們稱它是一種類比模組。所以，只有「兩種」效果的模組，就是數位模組，而有「多種」效果的模組，就是類比模組。",
+                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\n# 分辨「數位模組」、「類比模組」舉例來說：■ 按鈕開關模組只有開與關「兩種」狀況，我們稱它是一種數位模組。■ 光線感應模組可以感應「多種」亮度，我們稱它是一種類比模組。所以，只有「兩種」效果的模組，就是數位模組，而有「多種」效果的模組，就是類比模組。",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -700,12 +705,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/12.gif",
-                                            "width": 435
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/13.gif",
+                                            "width": 70,
+                                            "height": 170
                                         },
-                                        "box": [],
+                                        "box": [70,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 435,
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,

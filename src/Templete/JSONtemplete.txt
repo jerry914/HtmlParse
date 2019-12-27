@@ -1,14 +1,14 @@
 {
     "question": {
-        "content": "# CONTENTTITLE\n\n[[☃ article-block 1]]",
+        "content": "[[☃ article-block 1]]",
         "images": {},
         "widgets": {
             "article-block 1": {
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "# SUBTITLE\nSECTION[1]\n[[☃ article-block 1~SECTIONLEN-2]]\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
-                    "background": "#a9cfb9",
+                    "articleBlock": "CONTENTTITLE\n\n# SUBTITLE\nSECTION[1]\n[[☃ article-block 1~SECTIONLEN-2]]\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
+                    "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
                     "expanded": false,
