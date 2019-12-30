@@ -40,7 +40,7 @@ def artBlk_wigit_generate(num,Type,route,idx):
         if(Type == 'vf'):
             templete = junyiJSONgenerate.JSON_open('src\Templete\JSONiframe')
             string = templete.replace("IFRAMEIDX",str(1))
-            string = string.replace("https://jerry914.github.io/Linkit7697Learning-Resources/bubble/ROUTE/BUBBLEIDX.html",videoLL[videoIdx])
+            string = string.replace("https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/ROUTE/BUBBLEIDX.html",videoLL[videoIdx])
             resuleString+=string
             a=1
         for n in range(num):

@@ -4,7 +4,7 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/ROUTE/IMGIDX.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/ROUTE/IMGIDX.gif",
                                             "width": IMAGEWIDTH,
                                             "height": IMAGEHEIGHT
                                         },

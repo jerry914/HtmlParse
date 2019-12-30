@@ -2,7 +2,7 @@
                                     "type": "iframe",
                                     "graded": true,
                                     "options": {
-                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/ROUTE/BUBBLEIDX.html",
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/ROUTE/BUBBLEIDX.html",
                                         "settings": [
                                             {
                                                 "name": "",
