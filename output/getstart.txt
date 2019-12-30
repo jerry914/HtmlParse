@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 基礎電學觀念\n在開始使用LinkIt 7697之前讓我們先了解一些基本電學的觀念吧\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
+                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# getstart\n這個章節，我們將學習使用LinkIt 7697進入創作的世界。從電學基礎觀念、到電腦端的使用環境建置、再到第一次成功使用 LinkIt 7697現在，就讓我們開始進入LinkIt 7697的世界吧\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -20,7 +20,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 電壓與接地",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 你會學到的事",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -29,7 +29,7 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/1.gif",
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/1.gif",
                                             "width": 70,
                                             "height": 108
                                         },
@@ -70,7 +70,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：電壓與接地說明我們用電池來說明：電壓是高電位與低電位間的「電位差」，代表推動電流能力的大小，常用單位是「伏特」可簡寫為V（如圖1）。高電位稱為正極低電位稱作負極或是接地（簡稱GND）LinkIt的工作電壓通常是5V，也提供其他的供電方式。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n\n\n基礎電學觀念電壓、電流、訊號分類認識LinkIt 7697與擴充板安裝驅動程式與使用BlockyDuino點亮內建LED燈",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -79,14 +79,107 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/2.gif",
-                                            "width": 572,
-                                            "height": 323
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/2.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [572,
-                                            323],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/3.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/4.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/5.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -118,78 +211,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖2：水壓對比電壓 ",
-                                "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },
-
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/3.gif",
-                                            "width": 572,
-                                            "height": 322
-                                        },
-                                        "box": [572,
-                                            322],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 5": {
-                            "id": "article-block 5",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 電流與方向",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 設備需求",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -198,7 +222,7 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/4.gif",
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/6.gif",
                                             "width": 70,
                                             "height": 108
                                         },
@@ -232,14 +256,14 @@
                                 "major": 0,
                                 "minor": 0
                             }
-                        },"article-block 6": {
-                            "id": "article-block 6",
+                        },"article-block 5": {
+                            "id": "article-block 5",
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖3：水位差產生水流• 電在導體中流動的現象，稱為電流。常見的導體包含銅、鐵...等等。• 電流會從正極流向負極（如圖3）。如果電流固定往同一個方向流動，我們稱為直流電。常見的電線材質為銅",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n\n\n# LinkIt 7697感測器擴充板可上網的電腦Micro-USB傳輸線",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -248,14 +272,157 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/5.gif",
-                                            "width": 572,
-                                            "height": 350
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/7.gif",
+                                            "width": 170,
+                                            "height": 170
                                         },
-                                        "box": [572,
-                                            350],
+                                        "box": [170,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/8.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/9.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/10.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# LinkIt 7697與擴充板實品圖",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/11.gif",
+                                            "width": 70,
+                                            "height": 108
+                                        },
+                                        "box": [70,
+                                            108],
+                                        "labels": [],
+                                        "maxImageSize": 70,
                                         "range": [
                                             [
                                                 0,
@@ -289,40 +456,52 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖4：水流對比電流 • 如果沒有設備，電流從高電位流向低電位，會造成短路！",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n\n\nLinkit 7697開發板LinkIt 7697 是一塊針對物聯網應用的開發板，我們在製作專案的時候，主要就是需要利用這片板子喔! 感測器擴充板擴充板可以讓LinkIt 7697擁有更多的功能，讓我們學習更有趣喲!",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },
-
+                                    
                                     "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/6.gif",
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/12.gif",
                                             "width": 572,
-                                            "height": 321
+                                            "height": 461
                                         },
                                         "box": [572,
-                                            321],
+                                            461],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/13.gif",
+                                            "width": 572,
+                                            "height": 461
+                                        },
+                                        "box": [572,
+                                            461],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -358,7 +537,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 沒有形成電流的常見原因",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 你會完成的作品",
                                 "widgets": {
                                     
                                     "image 1": {
@@ -367,7 +546,7 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/7.gif",
+                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/14.gif",
                                             "width": 70,
                                             "height": 108
                                         },
@@ -408,63 +587,13 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖5：常見電流不導通的原因如果導線兩端都接在正極或都接在負極沒有電位差所以沒有電壓  →  燈泡沒電不會發光如果電線中間被剪斷了正極與負極沒有導體相連  →  燈泡沒電不會發光",
-                                "widgets": {
-                                    
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/8.gif",
-                                            "width": 572,
-                                            "height": 274
-                                        },
-                                        "box": [572,
-                                            274],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 10": {
-                            "id": "article-block 10",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖6：常見水流不導通的原因 ",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n[[☃ iframe 2]]\n\n\n\n\n ",
                                 "widgets": {
                                     "iframe 1": {
                                     "type": "iframe",
                                     "graded": true,
                                     "options": {
-                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/基礎電學觀念/3.html",
+                                        "url": "https://www.youtube.com/embed/OH2uE26tomo",
                                         "settings": [
                                             {
                                                 "name": "",
@@ -479,258 +608,46 @@
                                         "minor": 0
                                     }
                                 },
+"iframe 2": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },
+"iframe 3": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://jerry914.github.io/Linkit7697Learning-Resources/bubble/getstart/2.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
 
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/9.gif",
-                                            "width": 572,
-                                            "height": 382
-                                        },
-                                        "box": [572,
-                                            382],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 11": {
-                            "id": "article-block 11",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 讓我們回想一下",
-                                "widgets": {
                                     
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/10.gif",
-                                            "width": 170,
-                                            "height": 170
-                                        },
-                                        "box": [170,
-                                            170],
-                                        "labels": [],
-                                        "maxImageSize": 170,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 12": {
-                            "id": "article-block 12",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n1. 正極又稱做高電位（＋）、負極又稱為低電位（－）2. 正負極之間產生壓差（或稱電位差） 3. 有電位差，才有電流的產生4. 電流從高電位流向低電位5. 沒有電位差或電路中斷，電就不會導通",
-                                "widgets": {
-                                    
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 13": {
-                            "id": "article-block 13",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 數位訊號在LinkIt 7697中：以數位訊號進行輸出或輸入時，我們都將電壓分為高電位（5V）與低電位（0V）兩種，分別表示為 1 與 0 。",
-                                "widgets": {
-                                    
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/11.gif",
-                                            "width": 70,
-                                            "height": 170
-                                        },
-                                        "box": [70,
-                                            170],
-                                        "labels": [],
-                                        "maxImageSize": 70,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 14": {
-                            "id": "article-block 14",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 類比訊號在LinkIt 7697中：■ 以類比訊號輸出時，我們將電壓在高電位（5V）與低電位（0V）之間切割成256份（0~255），可以進行256段的控制。■ 以類比訊號輸入時，高低電位之間會切割更仔細分為4096份（0~4095），可以分辨4096種不同的狀況。資料來源",
-                                "widgets": {
-                                    
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/12.gif",
-                                            "width": 70,
-                                            "height": 170
-                                        },
-                                        "box": [70,
-                                            170],
-                                        "labels": [],
-                                        "maxImageSize": 70,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 15": {
-                            "id": "article-block 15",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n# 分辨「數位模組」、「類比模組」舉例來說：■ 按鈕開關模組只有開與關「兩種」狀況，我們稱它是一種數位模組。■ 光線感應模組可以感應「多種」亮度，我們稱它是一種類比模組。所以，只有「兩種」效果的模組，就是數位模組，而有「多種」效果的模組，就是類比模組。",
-                                "widgets": {
-                                    
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/getstart/基礎電學觀念/13.gif",
-                                            "width": 70,
-                                            "height": 170
-                                        },
-                                        "box": [70,
-                                            170],
-                                        "labels": [],
-                                        "maxImageSize": 70,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
                                 },
                                 "expandable": false,
                                 "expanded": false

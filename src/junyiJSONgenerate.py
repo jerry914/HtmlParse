@@ -14,13 +14,13 @@ def JSON_open(fileName):
         f.close()
         return data
 
-def JSON_generate(fileName,sectionText,subtitle,sectionImgCount,sectionBubbleCount,route):
+def JSON_generate(fileName,sectionText,subtitle,sectionImgCount,sectionBubbleCount,route,sectionVideoCount,videoLink):
     templete = JSON_openTemplete()
     content = templete.replace('CONTENTTITLE',generator.titleSplit(sectionText[0],subtitle))
     content = content.replace("SUBTITLE",subtitle)
     content = content.replace("SECTION[1]",sectionText[1])
     content = content.replace("[[☃ article-block 1~SECTIONLEN-2]]",generator.artBlk_generate(len(sectionText)-2,'a'))
-    content = content.replace("ARTICLEBLOCK",generator.cont_wiget_generate(sectionText,sectionImgCount,sectionBubbleCount,route))
+    content = content.replace("ARTICLEBLOCK",generator.cont_wiget_generate(sectionText,sectionImgCount,sectionBubbleCount,route,sectionVideoCount,videoLink))
     
     with open(fileName+".txt", 'w',encoding = 'utf8') as f: 
         f.write(content)

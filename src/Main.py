@@ -5,7 +5,7 @@ import imgDownload
 import bubbleDownload
 import junyiJSONgenerate
 rootUrl = 'https://sites.google.com/junyiacademy.org/linkit7697/'
-route = 'getstart/基礎電學觀念'
+route = 'getstart'
 url = rootUrl+route
 res = requests.get(url)
 soup = BeautifulSoup(res.text, 'html.parser')
@@ -17,29 +17,42 @@ sectionBlock = soup.select("section")
 sectionText = []
 sectionImgCount = []
 sectionBubbleCount = []
+sectionVideoCount = []
+videoLink = []
 imgIdx = 1
 bubbleIdx = 1
+videoIdx = 1
 for section in sectionBlock:
     if(section.text==''):
         continue
+    video = section.find('iframe')
+    try:
+        if(video["src"].find("youtube")>0):
+            sectionVideoCount.append(1)
+            videoLink.append(video["src"])
+        else:
+            sectionVideoCount.append(0)
+    except Exception as e:
+        print(e)
+        sectionVideoCount.append(0)
     img = section.find_all('img')
     if(section.select(".w536ob")):
-        # bubbleDownload.download_single_bubble(section.select(".w536ob"),bubblefilePath+'/'+str(bubbleIdx))
+        bubbleDownload.download_single_bubble(section.select(".w536ob"),bubblefilePath+'/'+str(bubbleIdx))
         bubbleIdx+=1
         sectionBubbleCount.append(1)
     else:
         sectionBubbleCount.append(0)
     sectionImgCount.append(len(img))
     for i in range(len(img)):
-        # imgDownload.download_single_img(img[i]["src"],imgfilePath+'/'+str(imgIdx))
+        imgDownload.download_single_img(img[i]["src"],imgfilePath+'/'+str(imgIdx))
         imgIdx+=1
     sectionText.append(section.text)
 
 i=0
-# for section in sectionText:
-#     print(sectionImgCount[i])
-#     print(section)
-#     i+=1
+for section in sectionText:
+    print(sectionImgCount[i])
+    print(section)
+    i+=1
 fileName = "output/"+route
 subtitle = ''
 try:
@@ -47,5 +60,5 @@ try:
 except Exception as e:
     subtitle = route
 
-junyiJSONgenerate.JSON_generate(fileName,sectionText,subtitle,sectionImgCount,sectionBubbleCount,route)
+junyiJSONgenerate.JSON_generate(fileName,sectionText,subtitle,sectionImgCount,sectionBubbleCount,route,sectionVideoCount,videoLink)
 print("爬蟲結束")
