@@ -1,0 +1,711 @@
+{
+    "question": {
+        "content": "[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 安裝開發環境\n我們已經有了電學觀念和認識了LinkIt 7697現在我們要把LinkIt 7697與電腦連結一起來試試看吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "background": "#ddeeea",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {
+                        "article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 認識開發環境",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n\n\n使用Arduino IDE使用文字式程式編輯工具支援基礎的Arduino API，並且提供額外的Wi-Fi與藍芽函式庫使用Blocklyduino使用圖像式程式編輯工具透過拖拉積木的方式即可連接周邊元件模組與雲端服務使用LinkIt SDK使用文字式程式編輯工具可針對核心功能進行開發，適合職業工程師使用",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/2.gif",
+                                            "width": 371,
+                                            "height": 251
+                                        },
+                                        "box": [371,
+                                            251],
+                                        "labels": [],
+                                        "maxImageSize": 371,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/3.gif",
+                                            "width": 371,
+                                            "height": 250
+                                        },
+                                        "box": [371,
+                                            250],
+                                        "labels": [],
+                                        "maxImageSize": 371,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/4.gif",
+                                            "width": 371,
+                                            "height": 249
+                                        },
+                                        "box": [371,
+                                            249],
+                                        "labels": [],
+                                        "maxImageSize": 371,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 為了讓初學者容易使用，我們將以BlocklyDuino進行教學",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 5": {
+                            "id": "article-block 5",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 連接電腦與LinkIt 7697",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：連接LinkIt 7697與電腦✅ 拿出Micro－USB連接線，連接LinkIt 7697與電腦，並確認電源燈亮起。",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/6.gif",
+                                            "width": 572,
+                                            "height": 322
+                                        },
+                                        "box": [572,
+                                            322],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 7": {
+                            "id": "article-block 7",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 下載並安裝USB驅動程式",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 8": {
+                            "id": "article-block 8",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖2：下載USB驅動程式和電腦所連接的硬體，例如：滑鼠、鍵盤，如果沒有驅動程式就無法正常運作！LinkIt 7697 也不例外！✅ 下載USB驅動程式：① 前往CP2102N的官方網站②  找到對應的Microsoft  Windows版本③ 下載 CP2102N USB to UART Bridge VCP Driver",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/8.gif",
+                                            "width": 572,
+                                            "height": 187
+                                        },
+                                        "box": [572,
+                                            187],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 9": {
+                            "id": "article-block 9",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖3：開始安裝USB驅動程式✅ 安裝驅動程式① 開啟載好的CP2102N驅動程式② 點擊「下一步」完成安裝",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/9.gif",
+                                            "width": 572,
+                                            "height": 311
+                                        },
+                                        "box": [572,
+                                            311],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 10": {
+                            "id": "article-block 10",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖4：成功安裝USB驅動程式③ 確認狀態為「可以使用」④ 點擊「完成」",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/10.gif",
+                                            "width": 572,
+                                            "height": 506
+                                        },
+                                        "box": [572,
+                                            506],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 11": {
+                            "id": "article-block 11",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 下載並執行BlocklyDuino",
+                                "widgets": {
+                                    
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 12": {
+                            "id": "article-block 12",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 下載BlocklyDuino      • 32位元 (Win32, 306MB)      • 64位元 (Win64, 316MB)",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/12.gif",
+                                            "width": 271,
+                                            "height": 271
+                                        },
+                                        "box": [271,
+                                            271],
+                                        "labels": [],
+                                        "maxImageSize": 271,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 13": {
+                            "id": "article-block 13",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖6：解壓縮BlocklyDuino✅ 解壓縮下載的檔案① 選擇解壓縮後存放的位置② 點擊「確定」*注意：擺放路徑越短越好, 盡量就解壓縮在根目錄下，例如：C:\ 或 D:\。有些解壓縮軟體對於過長路徑會產生錯誤(例如某些版本的 WinRAR)，可以使用免費的7-zip來解壓縮。",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/13.gif",
+                                            "width": 572,
+                                            "height": 365
+                                        },
+                                        "box": [572,
+                                            365],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 14": {
+                            "id": "article-block 14",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖7：開啟BlocklyDuino③ 開啟 BlcoklDuino.exe在BlocklyDuino3 的檔案夾內，可以找到BlocklyDuino.exe。",
+                                "widgets": {
+                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/14.gif",
+                                            "width": 572,
+                                            "height": 437
+                                        },
+                                        "box": [572,
+                                            437],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 15": {
+                            "id": "article-block 15",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：成功開啟BlocklyDuino✅ 成功開啟BlocklyDuino囉！ ",
+                                "widgets": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/安裝開發環境/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },
+
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/15.gif",
+                                            "width": 572,
+                                            "height": 312
+                                        },
+                                        "box": [572,
+                                            312],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
+                        "explanation 1": {
+                            "graded": false,
+                            "id": "explanation 1",
+                            "options": {
+                                "explanation": "教學課程由邱文盛老師、S4A教師社群、聯發科技教育基金會、均一教育平台(Junyi Academy)協力製作，採用[創用 CC 姓名標示-相同方式分享 4.0 國際授權條款釋出](https://creativecommons.org/licenses/by-sa/4.0/ \"\" \"_blank\")。課程網頁所顯示的 MediaTek, LinkKit, BlocklyDuino等圖標、文字與相關權利分屬個別組織或公司所有。\n\n聯發科LinkIt™ 7697物聯網應用開發板，可連接並控制各種外部感測器，並具備WiFi與藍芽功能可連結MediaTek Cloud Sandbox雲端平台，使用BlocklyDuino圖形化編輯器，拖拉組合程式積木，創作好玩、有趣又結合生活體驗的進階科技專題。\n",
+                                "hidePrompt": "- Acknowledgement",
+                                "showPrompt": "+ Acknowledgement",
+                                "widgets": {}
+                            },
+                            "type": "explanation",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
+                        "image 1": {
+                            "graded": true,
+                            "id": "image 1",
+                            "options": {
+                                "aspectRatio": 0.37058823529411766,
+                                "backgroundImage": {
+                                    "height": 28,
+                                    "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/home/10.gif",
+                                    "width": 75
+                                },
+                                "box": [
+                                    75,
+                                    28
+                                ],
+                                "labels": [],
+                                "maxImageSize": 435,
+                                "range": [
+                                    [
+                                        0,
+                                        10
+                                    ],
+                                    [
+                                        0,
+                                        10
+                                    ]
+                                ],
+                                "useBoxSize": true
+                            },
+                            "type": "image",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }
+                    }
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

@@ -68,13 +68,15 @@ def cont_wiget_generate(sectionText,sectionImgCount,sectionBubbleCount,route,sec
         else:
             articleBlock = articleBlock.replace("IFRAMEBLOCK",artBlk_wigit_generate(sectionBubbleCount[a+1],'f',route,bubbleIdx))
         articleBlock = articleBlock.replace("[[☃ iframe 1]]",artBlk_generate(sectionBubbleCount[a+1]+sectionVideoCount[a+1],'f'))
-        articleBlock = articleBlock.replace("IMGBLOCK",artBlk_wigit_generate(sectionImgCount[a+1],'m',route,imgIdx))
-        articleBlock = articleBlock.replace("[[☃ image 1]]",artBlk_generate(sectionImgCount[a+1],'m'))
-        if(articleBlock.find('width": 70')>0 or articleBlock.find('width": 170')>0):
+        if(imgDownload.search_img_width(fileRootPath+'img/'+route+'/'+str(imgIdx)+".gif").width!=70):
+            articleBlock = articleBlock.replace("IMGBLOCK",artBlk_wigit_generate(sectionImgCount[a+1],'m',route,imgIdx))
+            articleBlock = articleBlock.replace("[[☃ image 1]]",artBlk_generate(sectionImgCount[a+1],'m'))
+            articleBlock = articleBlock.replace("ARTICLESTYLE",'')
+        else:
+            articleBlock = articleBlock.replace("IMGBLOCK",'')
+            articleBlock = articleBlock.replace("[[☃ image 1]]",'')
             articleBlock = articleBlock.replace("#fff",'')
             articleBlock = articleBlock.replace("ARTICLESTYLE",'# ')
-        else:
-            articleBlock = articleBlock.replace("ARTICLESTYLE",'')
         bubbleIdx+=sectionBubbleCount[a]
         imgIdx+=sectionImgCount[a+1]
         videoIdx+=sectionVideoCount[a+1]

@@ -41,14 +41,14 @@ for x in f:
                 sectionVideoCount.append(0)
             img = section.find_all('img')
             if(section.select(".w536ob")):
-                bubbleDownload.download_single_bubble(section.select(".w536ob"),bubblefilePath+'/'+str(bubbleIdx))
+                # bubbleDownload.download_single_bubble(section.select(".w536ob"),bubblefilePath+'/'+str(bubbleIdx))
                 bubbleIdx+=1
                 sectionBubbleCount.append(1)
             else:
                 sectionBubbleCount.append(0)
             sectionImgCount.append(len(img))
             for i in range(len(img)):
-                imgDownload.download_single_img(img[i]["src"],imgfilePath+'/'+str(imgIdx))
+                # imgDownload.download_single_img(img[i]["src"],imgfilePath+'/'+str(imgIdx))
                 imgIdx+=1
             sectionText.append(section.text)
 
@@ -64,7 +64,7 @@ for x in f:
         except Exception as e:
             subtitle = route
 
-        # junyiJSONgenerate.JSON_generate(fileName,sectionText,subtitle,sectionImgCount,sectionBubbleCount,route,sectionVideoCount,videoLink)
+        junyiJSONgenerate.JSON_generate(fileName,sectionText,subtitle,sectionImgCount,sectionBubbleCount,route,sectionVideoCount,videoLink)
         print("爬蟲結束")
     except Exception as e:
         print(e)

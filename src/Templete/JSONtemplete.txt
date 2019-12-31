@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "CONTENTTITLE\n\n# SUBTITLE\nSECTION[1]\n[[☃ article-block 1~SECTIONLEN-2]]\n\n[[☃ explanation 1]]\n\n[[☃ explanation 2]]\n\n[[☃ image 1]]\n\n[[☃ image 2]]",
+                    "articleBlock": "CONTENTTITLE\n\n# SUBTITLE\nSECTION[1]\n[[☃ article-block 1~SECTIONLEN-2]]\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -29,68 +29,19 @@
                                 "minor": 0
                             }
                         },
-                        "explanation 2": {
-                            "graded": false,
-                            "id": "explanation 2",
-                            "options": {
-                                "explanation": "[Facebook](https://www.facebook.com/sharer.php?u=https%3A%2F%2Fcs101.page.link%2Fez74 \"\" \"_blank\")\n\n[LINE](https://social-plugins.line.me/lineit/share?url=https://cs101.page.link/ez74 \"\" \"_blank\")\n\n[GoogleClassroom](https://classroom.google.com/share?url=https%3A%2F%2Fcs101.page.link%2Fez74 \"\" \"_blank\")\n",
-                                "hidePrompt": "- Share",
-                                "showPrompt": "+ Share",
-                                "widgets": {}
-                            },
-                            "type": "explanation",
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },
                         "image 1": {
                             "graded": true,
                             "id": "image 1",
                             "options": {
-                                "aspectRatio": 0.3352941176470588,
-                                "backgroundImage": {
-                                    "height": 57,
-                                    "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/home/9.gif",
-                                    "width": 170
-                                },
-                                "box": [
-                                    170,
-                                    57
-                                ],
-                                "labels": [],
-                                "maxImageSize": 435,
-                                "range": [
-                                    [
-                                        0,
-                                        10
-                                    ],
-                                    [
-                                        0,
-                                        10
-                                    ]
-                                ],
-                                "useBoxSize": false
-                            },
-                            "type": "image",
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },
-                        "image 2": {
-                            "graded": true,
-                            "id": "image 2",
-                            "options": {
                                 "aspectRatio": 0.37058823529411766,
                                 "backgroundImage": {
-                                    "height": 63,
-                                    "url": "https://jerry914.github.io/Linkit7697Learning-Resources/img/home/10.gif",
-                                    "width": 170
+                                    "height": 28,
+                                    "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/home/10.gif",
+                                    "width": 75
                                 },
                                 "box": [
-                                    170,
-                                    63
+                                    75,
+                                    28
                                 ],
                                 "labels": [],
                                 "maxImageSize": 435,
@@ -104,7 +55,7 @@
                                         10
                                     ]
                                 ],
-                                "useBoxSize": false
+                                "useBoxSize": true
                             },
                             "type": "image",
                             "version": {

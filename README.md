@@ -1,7 +1,12 @@
 # HtmlParse
 html convert to junyi json
 
-## function
+```
+cd HtmlParse
+python3 Main.py
+```
+
+## Usage
 + Text
 + Image(raw size)
 + Bubble(iframe html)
