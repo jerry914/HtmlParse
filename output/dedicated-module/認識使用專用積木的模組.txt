@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "  0. 初次使用   Linkit 7697入門認識LinkIt 7697與擴充板\n\n# 認識linkit-7697與擴充板\n拿出你的LinkIt 7697與擴充板讓我們先認識LinkIt 7697的功能以及為什麼需要使用擴充板\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "articleBlock": "  5. 特殊模組   使用函式庫積木\n\n# 認識使用專用積木的模組\n找一找教材包中使用專用積木的模組我們可以將它分成三大類別分別是輸出、輸入與顯示\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -20,7 +20,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 認識LinkIt 7697",
+                                "articleBlock": "\n\n\n\n# 輸出類別的模組",
                                 "widgets": {
                                     
                                 },
@@ -38,7 +38,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\nLinkIt 7697是由MediaTek（聯發科技）推出的物聯網應用開發板，是初學者學習物聯網的最佳選擇。具備 Wi-Fi 和 BLE（低功耗藍芽）兩種最主要的通訊功能。可以相容Arduino的相關資源，且具備完整的連網功能與平台。更棒的是，聯發科同時製作了MediaTek Cloud Sandbox 雲端平台，讓使用者有更好的物聯網體驗。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n\n\n無源蜂鳴器模組伺服機",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -46,14 +46,45 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/認識linkit-7697與擴充板/2.gif",
-                                            "width": 572,
-                                            "height": 381
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/dedicated-module/認識使用專用積木的模組/2.gif",
+                                            "width": 271,
+                                            "height": 271
                                         },
-                                        "box": [572,
-                                            381],
+                                        "box": [271,
+                                            271],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 271,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/dedicated-module/認識使用專用積木的模組/3.gif",
+                                            "width": 271,
+                                            "height": 271
+                                        },
+                                        "box": [271,
+                                            271],
+                                        "labels": [],
+                                        "maxImageSize": 271,
                                         "range": [
                                             [
                                                 0,
@@ -87,7 +118,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# LinkIt 7697功能介紹",
+                                "articleBlock": "\n\n\n\n# 輸入類別的模組",
                                 "widgets": {
                                     
                                 },
@@ -105,7 +136,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：LinkIt 7697元件說明• 可使用程式積木自訂功能：①  USR 按鈕 : 板子上內建的輸入按鈕  ②  USR LED：板子上內建的輸出LED燈• 其他元件：③  RST 按鈕 : 按下就會重新啟動開發板 ④  RX LED燈 : 序列埠往板子傳資料時會閃爍⑤  TX LED燈:  序列埠往 PC 傳資料時會閃爍⑥  USB連接口 : 透過 Micro-USB 線和電腦連接⑦  電源指示燈： 確認LinkIt 7697是否有通電  ",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n\n\n溫溼度模組（DHT11）超音波距離感應（HC-SR04P）",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -113,14 +144,45 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/認識linkit-7697與擴充板/4.gif",
-                                            "width": 572,
-                                            "height": 312
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/dedicated-module/認識使用專用積木的模組/5.gif",
+                                            "width": 271,
+                                            "height": 271
                                         },
-                                        "box": [572,
-                                            312],
+                                        "box": [271,
+                                            271],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 271,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/dedicated-module/認識使用專用積木的模組/6.gif",
+                                            "width": 271,
+                                            "height": 271
+                                        },
+                                        "box": [271,
+                                            271],
+                                        "labels": [],
+                                        "maxImageSize": 271,
                                         "range": [
                                             [
                                                 0,
@@ -154,7 +216,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 認識擴充板",
+                                "articleBlock": "\n\n\n\n# 顯示類別的模組",
                                 "widgets": {
                                     
                                 },
@@ -172,7 +234,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n\n\n杜邦連接線＊ 為什麼要用擴充板呢？使用傳統接法把元件和開發板連接，可能會遇到一些串並聯、電阻等接線上的問題，但是使用擴充板可以讓我們避免這一類困擾。＊ 如何和開發板組裝：擴充板和LinkIt將會上下組合在一起，擴充板在LinkIt 7697的下方。＊ 怎麼連接元件：只要使用杜邦連接線，就能把需要用到的電子元件連接到LinkIt 7697上。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\nLCD（1602）",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -180,45 +242,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/認識linkit-7697與擴充板/6.gif",
-                                            "width": 472,
-                                            "height": 414
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/dedicated-module/認識使用專用積木的模組/8.gif",
+                                            "width": 271,
+                                            "height": 271
                                         },
-                                        "box": [472,
-                                            414],
+                                        "box": [271,
+                                            271],
                                         "labels": [],
-                                        "maxImageSize": 472,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 2": {
-                                    "graded": true,
-                                    "id": "image 2",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/認識linkit-7697與擴充板/7.gif",
-                                            "width": 170,
-                                            "height": 170
-                                        },
-                                        "box": [170,
-                                            170],
-                                        "labels": [],
-                                        "maxImageSize": 170,
+                                        "maxImageSize": 271,
                                         "range": [
                                             [
                                                 0,
@@ -250,27 +281,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 擴充版介紹",
-                                "widgets": {
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 9": {
-                            "id": "article-block 9",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖2：擴充板說明＊擴充板上常用的元件:（圖2）①  數位腳位D0~D13：連接數位輸出 / 輸入的模組②  類比腳位A0~A3：連接類比輸出 / 輸入的模組③  LinkIt 7697連接點：連接LinkIt 7697的接點＊ 注意模組與擴充版上接有標示GVS，連接模組時：G接G、V接V、S接S。 G代表接地（ground）、V代表供電（VCC）、S代表訊號（signal）• 腳位號碼說明：A0代表Pin14，A1代表Pin15 ...以此類推",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n接下來，我們會分別練習如何使用三大類別的模組，讓我們開始吧！",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -278,99 +291,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/認識linkit-7697與擴充板/9.gif",
-                                            "width": 572,
-                                            "height": 591
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/dedicated-module/認識使用專用積木的模組/9.gif",
+                                            "width": 170,
+                                            "height": 170
                                         },
-                                        "box": [572,
-                                            591],
+                                        "box": [170,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 10": {
-                            "id": "article-block 10",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 組合LinkIt 7697與擴充板",
-                                "widgets": {
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 11": {
-                            "id": "article-block 11",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖3：組合LinkIt 7697與擴充板將LinkIt 7697順著擴充版上的白線安裝（右圖3） ",
-                                "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/認識linkit-7697與擴充板/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/認識linkit-7697與擴充板/11.gif",
-                                            "width": 472,
-                                            "height": 434
-                                        },
-                                        "box": [472,
-                                            434],
-                                        "labels": [],
-                                        "maxImageSize": 472,
+                                        "maxImageSize": 170,
                                         "range": [
                                             [
                                                 0,

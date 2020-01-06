@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 安裝開發環境\n我們已經有了電學觀念和認識了LinkIt 7697現在我們要把LinkIt 7697與電腦連結一起來試試看吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "articleBlock": "  4. 類比輸入   偵測環境亮度\n\n# analoginput\n這個主題會將外部元件得到的訊號傳回LinkIt7697中透過光線感應模組，使用類比輸入的方式接收光線的亮度。接著透過小挑戰，製作晚上會自動點亮的LED燈吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -20,7 +20,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 認識開發環境",
+                                "articleBlock": "\n\n\n\n# 你會學到的事",
                                 "widgets": {
                                     
                                 },
@@ -38,7 +38,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n\n\n使用Arduino IDE使用文字式程式編輯工具支援基礎的Arduino API，並且提供額外的Wi-Fi與藍芽函式庫使用Blocklyduino使用圖像式程式編輯工具透過拖拉積木的方式即可連接周邊元件模組與雲端服務使用LinkIt SDK使用文字式程式編輯工具可針對核心功能進行開發，適合職業工程師使用",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n\n\n認識光線感應模組 使用類比腳位學習類比輸入使用條件判斷偵測是白天還是晚上更換成其他類比輸入模組",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -46,14 +46,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/2.gif",
-                                            "width": 371,
-                                            "height": 251
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/2.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [371,
-                                            251],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -77,14 +77,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/3.gif",
-                                            "width": 371,
-                                            "height": 250
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/3.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [371,
-                                            250],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -108,14 +108,45 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/4.gif",
-                                            "width": 371,
-                                            "height": 249
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/4.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [371,
-                                            249],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/5.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -149,7 +180,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 為了讓初學者容易使用，我們將以BlocklyDuino進行教學",
+                                "articleBlock": "\n\n\n\n# 設備需求",
                                 "widgets": {
                                     
                                 },
@@ -165,27 +196,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 連接電腦與LinkIt 7697",
-                                "widgets": {
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 6": {
-                            "id": "article-block 6",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：連接LinkIt 7697與電腦✅ 拿出Micro－USB連接線，連接LinkIt 7697與電腦，並確認電源燈亮起。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n[[☃ image 5]]\n\n[[☃ image 6]]\n\n\n\nLinkIt7697感測器擴充板可上網的電腦Micro-USB傳輸線光線感應模組杜邦連接線3條：1pin",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -193,14 +206,169 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/6.gif",
-                                            "width": 572,
-                                            "height": 322
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/7.gif",
+                                            "width": 170,
+                                            "height": 170
                                         },
-                                        "box": [572,
-                                            322],
+                                        "box": [170,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/8.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/9.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/10.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 5": {
+                                    "graded": true,
+                                    "id": "image 5",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/11.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 6": {
+                                    "graded": true,
+                                    "id": "image 6",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analoginput/12.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
                                         "range": [
                                             [
                                                 0,
@@ -219,6 +387,24 @@
                                         "minor": 0
                                     }
                                 }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 認識類比輸入",
+                                "widgets": {
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -234,7 +420,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並安裝USB驅動程式",
+                                "articleBlock": "\n\n\n\n# 類比輸入，是把外部元件輸入的高電位（5V）與低電位（0V）之間，切割成4095份（0~4095有4096個數字）。因此使用類比輸接收外部元件訊號，不只可以得到高電位與低電位兩種狀況，而是可以得到多種狀況。例如我們以類比輸入使用光線感應模組，不只得到環境光線檢測結果是亮或暗，而是可以有等級不同的亮度資訊 ",
                                 "widgets": {
                                     
                                 },
@@ -250,42 +436,11 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖2：下載USB驅動程式和電腦所連接的硬體，例如：滑鼠、鍵盤，如果沒有驅動程式就無法正常運作！LinkIt 7697 也不例外！✅ 下載USB驅動程式：① 前往CP2102N的官方網站②  找到對應的Microsoft  Windows版本③ 下載 CP2102N USB to UART Bridge VCP Driver",
+                                "articleBlock": "\n\n\n\n# 認識光電感應模組",
                                 "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/8.gif",
-                                            "width": 572,
-                                            "height": 187
-                                        },
-                                        "box": [572,
-                                            187],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -301,321 +456,9 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖3：開始安裝USB驅動程式✅ 安裝驅動程式① 開啟載好的CP2102N驅動程式② 點擊「下一步」完成安裝",
-                                "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/9.gif",
-                                            "width": 572,
-                                            "height": 311
-                                        },
-                                        "box": [572,
-                                            311],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 10": {
-                            "id": "article-block 10",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖4：成功安裝USB驅動程式③ 確認狀態為「可以使用」④ 點擊「完成」",
-                                "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/10.gif",
-                                            "width": 572,
-                                            "height": 506
-                                        },
-                                        "box": [572,
-                                            506],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 11": {
-                            "id": "article-block 11",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並執行BlocklyDuino",
+                                "articleBlock": "\n\n\n\n光線感應模組是一種可以偵測亮度變化的電阻，隨著亮度的改變會有不同的電阻值。生活中智慧型手機、筆記型電腦自動調整螢幕亮度、晚上路燈會自動點亮...都是使用光線感應模組的成果哦。光敏電阻分成亮電阻與暗電阻，所以有可能光線越亮電阻越大，也可能光線越亮電阻越小。因此使用前要測試一下光敏電阻是亮電阻還是暗電阻哦",
                                 "widgets": {
                                     
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 12": {
-                            "id": "article-block 12",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 下載BlocklyDuino      • 32位元 (Win32, 306MB)      • 64位元 (Win64, 316MB)",
-                                "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/12.gif",
-                                            "width": 271,
-                                            "height": 271
-                                        },
-                                        "box": [271,
-                                            271],
-                                        "labels": [],
-                                        "maxImageSize": 271,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 13": {
-                            "id": "article-block 13",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖6：解壓縮BlocklyDuino✅ 解壓縮下載的檔案① 選擇解壓縮後存放的位置② 點擊「確定」*注意：擺放路徑越短越好, 盡量就解壓縮在根目錄下，例如：C:\\ 或 D:\\。有些解壓縮軟體對於過長路徑會產生錯誤(例如某些版本的 WinRAR)，可以使用免費的7-zip來解壓縮。",
-                                "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/13.gif",
-                                            "width": 572,
-                                            "height": 365
-                                        },
-                                        "box": [572,
-                                            365],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 14": {
-                            "id": "article-block 14",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖7：開啟BlocklyDuino③ 開啟 BlcoklDuino.exe在BlocklyDuino3 的檔案夾內，可以找到BlocklyDuino.exe。",
-                                "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/14.gif",
-                                            "width": 572,
-                                            "height": 437
-                                        },
-                                        "box": [572,
-                                            437],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 15": {
-                            "id": "article-block 15",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：成功開啟BlocklyDuino✅ 成功開啟BlocklyDuino囉！ ",
-                                "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/安裝開發環境/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/15.gif",
-                                            "width": 572,
-                                            "height": 312
-                                        },
-                                        "box": [572,
-                                            312],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
                                 },
                                 "expandable": false,
                                 "expanded": false

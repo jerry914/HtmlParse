@@ -1,0 +1,1882 @@
+{
+    "question": {
+        "content": "[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "  6. 雲端應用   與MCS通訊互動MCS → 開發板：透過MCS控制蜂鳴器模組\n\n# mcs-to-linkit\n電影裡帥氣的間諜會用摩斯密碼傳訊息遠方的夥伴，我們也可以透過MCS的服務，自己做出一個電報系統而且是用手機來控制哦！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n[[☃ article-block 16]]\n\n[[☃ article-block 17]]\n\n[[☃ article-block 18]]\n\n[[☃ article-block 19]]\n\n[[☃ article-block 20]]\n\n[[☃ article-block 21]]\n\n[[☃ article-block 22]]\n\n[[☃ article-block 23]]\n\n[[☃ article-block 24]]\n\n[[☃ article-block 25]]\n\n[[☃ article-block 26]]\n\n[[☃ article-block 27]]\n\n[[☃ article-block 28]]\n\n[[☃ article-block 29]]\n\n[[☃ article-block 30]]\n\n[[☃ article-block 31]]\n\n[[☃ article-block 32]]\n\n[[☃ article-block 33]]\n\n[[☃ article-block 34]]\n\n[[☃ article-block 35]]\n\n[[☃ article-block 36]]\n\n[[☃ article-block 37]]\n\n[[☃ article-block 38]]\n\n[[☃ article-block 39]]\n\n[[☃ article-block 40]]\n\n[[☃ article-block 41]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "background": "#ddeeea",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {
+                        "article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n[[☃ iframe 2]]\n\n\n[[☃ image 1]]\n\n\n\n ",
+                                "widgets": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://www.youtube.com/embed/EK2HXMHoE1o",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 2": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/cloudservice/mcs-to-linkit/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 3": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/cloudservice/mcs-to-linkit/2.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/1.gif",
+                                            "width": 572,
+                                            "height": 559
+                                        },
+                                        "box": [572,
+                                            559],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 連接無源蜂鳴器模組",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n找到無源蜂鳴器✅ 無源蜂鳴器是表面沒有標註HSD字樣的模組",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/3.gif",
+                                            "width": 572,
+                                            "height": 322
+                                        },
+                                        "box": [572,
+                                            322],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 5": {
+                            "id": "article-block 5",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n連接蜂鳴器模組到擴充版上的腳位Pin3✅ 連接外接模組時：G接G、V接V、S接S。✅ 課程範例以連接至腳位Pin3進行",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/4.gif",
+                                            "width": 572,
+                                            "height": 322
+                                        },
+                                        "box": [572,
+                                            322],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n*小提醒：要先打開擴充板上的開關喔！如果不清楚「無源蜂鳴器模組」該如何使用，可以先看這個單元：「無源蜂鳴器模組」。 ",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/5.gif",
+                                            "width": 472,
+                                            "height": 315
+                                        },
+                                        "box": [472,
+                                            315],
+                                        "labels": [],
+                                        "maxImageSize": 472,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 7": {
+                            "id": "article-block 7",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 雲端設定",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 8": {
+                            "id": "article-block 8",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n再創建一個新的產品原型",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 9": {
+                            "id": "article-block 9",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n在 MCS 上方中選單中：✅ 點選：開發 → 原型。",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/7.gif",
+                                            "width": 572,
+                                            "height": 301
+                                        },
+                                        "box": [572,
+                                            301],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 10": {
+                            "id": "article-block 10",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n馬上創建原型！✅ 點擊：創建",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/8.gif",
+                                            "width": 572,
+                                            "height": 387
+                                        },
+                                        "box": [572,
+                                            387],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 11": {
+                            "id": "article-block 11",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 設定以下資訊，最後按下儲存：產品原型名稱： [ 摩斯密碼發送器]產品原型版本： [ v1.0 ]硬體平台：[ 聯發科開發板 ]硬體名稱：[ LinkIt 7697 ]描述： [ 可忽略 ]產業：[ 教育 ] 應用程式：[ 小學及中學教育]上傳影像： [ 可忽略 ]",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/9.gif",
+                                            "width": 572,
+                                            "height": 697
+                                        },
+                                        "box": [572,
+                                            697],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 12": {
+                            "id": "article-block 12",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 進入產品原型的詳細資訊",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/10.gif",
+                                            "width": 572,
+                                            "height": 309
+                                        },
+                                        "box": [572,
+                                            309],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 13": {
+                            "id": "article-block 13",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 新增一個資料通道",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/11.gif",
+                                            "width": 572,
+                                            "height": 310
+                                        },
+                                        "box": [572,
+                                            310],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 14": {
+                            "id": "article-block 14",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 新增一個控制器",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/12.gif",
+                                            "width": 572,
+                                            "height": 375
+                                        },
+                                        "box": [572,
+                                            375],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 15": {
+                            "id": "article-block 15",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 設定以下資訊，最後按下儲存：資料通道名稱： [ 開關 ]資料通道id： [button ]描述： [ 可忽略 ]資料型態：[ 開關 ]",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/13.gif",
+                                            "width": 572,
+                                            "height": 613
+                                        },
+                                        "box": [572,
+                                            613],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 16": {
+                            "id": "article-block 16",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n完成了 !",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/14.gif",
+                                            "width": 572,
+                                            "height": 349
+                                        },
+                                        "box": [572,
+                                            349],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 17": {
+                            "id": "article-block 17",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 點選畫面右上角的創建測試裝置",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/15.gif",
+                                            "width": 572,
+                                            "height": 315
+                                        },
+                                        "box": [572,
+                                            315],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 18": {
+                            "id": "article-block 18",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 設定裝置名稱，最後按下儲存：資料通道名稱： [ 摩斯密碼發送器 ]",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/16.gif",
+                                            "width": 572,
+                                            "height": 313
+                                        },
+                                        "box": [572,
+                                            313],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 19": {
+                            "id": "article-block 19",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 選擇詳細資訊",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/17.gif",
+                                            "width": 572,
+                                            "height": 313
+                                        },
+                                        "box": [572,
+                                            313],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 20": {
+                            "id": "article-block 20",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 進入測試裝置畫面這裡的「控制開關」可以操作連上MCS 的LinkIt 7697",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/18.gif",
+                                            "width": 1175,
+                                            "height": 647
+                                        },
+                                        "box": [1175,
+                                            647],
+                                        "labels": [],
+                                        "maxImageSize": 1175,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 21": {
+                            "id": "article-block 21",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 找到測試裝置的 DeviceId 與 DeviceKey在測試裝置畫面的右上方，可以找到：DeviceIdDeviceKey要記下這兩個資訊，後面使用「MCS積木」時，需要填上這些資料哦！",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/19.gif",
+                                            "width": 572,
+                                            "height": 306
+                                        },
+                                        "box": [572,
+                                            306],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 22": {
+                            "id": "article-block 22",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 從 MCS 控制蜂鳴器",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 23": {
+                            "id": "article-block 23",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n1. 從網頁開關控制蜂鳴器",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 24": {
+                            "id": "article-block 24",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 加入積木：[ 初始化 ]序列埠印出 （Wi-Fi 準備連線）連線到Wi-Fi APWi-Fi ID （Wi-Fi 的 SSID）Wi-Fi 密碼序列埠印出 （Wi-Fi 連線成功）序列埠印出 （MCS連線成功）連線到 MCSDeviceID (MCS裝置的ID)DeviceKey (MCS裝置的金鑰)序列埠印出 （MCS連線成功）[ 重複執行 ]沒有任何積木注意：要記得更改測試裝置的 ID 和 Key 喔！",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/21.gif",
+                                            "width": 572,
+                                            "height": 630
+                                        },
+                                        "box": [572,
+                                            630],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 25": {
+                            "id": "article-block 25",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 新增控制通道加入積木：[ 連線到MCS ]新增MCS ［開關（布林值）］控制通道［button］",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/22.gif",
+                                            "width": 572,
+                                            "height": 430
+                                        },
+                                        "box": [572,
+                                            430],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 26": {
+                            "id": "article-block 26",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 讓LinkIt 7697 與 MCS保持同步加入積木：[ 重複執行 ]和MCS同步每次執行這一個積木， 程式會去和雲端做資料同步  。",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/23.gif",
+                                            "width": 572,
+                                            "height": 430
+                                        },
+                                        "box": [572,
+                                            430],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 27": {
+                            "id": "article-block 27",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 偵測開關控制通道是否有資料更新加入積木：[ 重複執行 ]如果 ［MCS " button " 控制通道已更新］，執行 ...",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/24.gif",
+                                            "width": 572,
+                                            "height": 538
+                                        },
+                                        "box": [572,
+                                            538],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 28": {
+                            "id": "article-block 28",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 偵測開關控制通道的「開」與「關」狀態加入積木：[ 如果 ［MCS " button " 控制通道已更新］[ 執行 ]如果 讀取 "button" 控制通道數值 ＝ 真，執行... 否則 ...* 布林值只有兩種狀態，分別是「真」和「否」，當傳回值是「真」，即代表開關是打開的，反之則是代表開關是關上的。",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/25.gif",
+                                            "width": 572,
+                                            "height": 538
+                                        },
+                                        "box": [572,
+                                            538],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 29": {
+                            "id": "article-block 29",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 控制蜂鳴器加入積木：[ 如果 讀取 "button" 控制通道數值 ＝ 真 ] [ 執行 ] 音調 Pin 3 頻率 C:Do[ 否則 ] 停止音調 Pin 3",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/26.gif",
+                                            "width": 572,
+                                            "height": 538
+                                        },
+                                        "box": [572,
+                                            538],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 30": {
+                            "id": "article-block 30",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 完成！確認你製作了這些程式積木。",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/27.gif",
+                                            "width": 790,
+                                            "height": 804
+                                        },
+                                        "box": [790,
+                                            804],
+                                        "labels": [],
+                                        "maxImageSize": 790,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 31": {
+                            "id": "article-block 31",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 把製作好的程式傳送到LinkIt 7697中吧！① 確認COM port正確② 點擊上傳③ 傳送過程中可以在「燒錄狀態」中確認進度",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/28.gif",
+                                            "width": 572,
+                                            "height": 360
+                                        },
+                                        "box": [572,
+                                            360],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 32": {
+                            "id": "article-block 32",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 上傳程式後，打開序列埠，看看LinkIt 7697 是不是成功連線到Wi-Fi了！",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/29.gif",
+                                            "width": 358,
+                                            "height": 237
+                                        },
+                                        "box": [358,
+                                            237],
+                                        "labels": [],
+                                        "maxImageSize": 358,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 33": {
+                            "id": "article-block 33",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 打開MCS測試裝置，試試看按下開關按鈕，能不能能控制蜂鳴器的開與關！",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/30.gif",
+                                            "width": 1175,
+                                            "height": 647
+                                        },
+                                        "box": [1175,
+                                            647],
+                                        "labels": [],
+                                        "maxImageSize": 1175,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 34": {
+                            "id": "article-block 34",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n2. 用手機 APP 從 MCS 控制蜂鳴器",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 35": {
+                            "id": "article-block 35",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\nMCS 有提供安卓（Android）版本的APP，掃描右側 QR code 或在Google play搜尋「MediaTek Cloud Sandbox」下載手機應用程式。",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/31.gif",
+                                            "width": 200,
+                                            "height": 200
+                                        },
+                                        "box": [200,
+                                            200],
+                                        "labels": [],
+                                        "maxImageSize": 200,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 36": {
+                            "id": "article-block 36",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 下載後開啟應用程式，會進入登入畫面。輸入你在MCS註冊的帳號與密碼，完成後按下登入（Sign In）",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/32.gif",
+                                            "width": 540,
+                                            "height": 623
+                                        },
+                                        "box": [540,
+                                            623],
+                                        "labels": [],
+                                        "maxImageSize": 540,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 37": {
+                            "id": "article-block 37",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 登入後，可以看到你的測試裝置",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/33.gif",
+                                            "width": 540,
+                                            "height": 541
+                                        },
+                                        "box": [540,
+                                            541],
+                                        "labels": [],
+                                        "maxImageSize": 540,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 38": {
+                            "id": "article-block 38",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 測試裝置上的雙向箭頭圖示亮起，代表MCS已和LinkIt 7697 建立連線，此時點擊你的測試裝置即可開始使用。",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/34.gif",
+                                            "width": 540,
+                                            "height": 420
+                                        },
+                                        "box": [540,
+                                            420],
+                                        "labels": [],
+                                        "maxImageSize": 540,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 39": {
+                            "id": "article-block 39",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 進入儀表板，點擊開關，蜂鳴器是不是開始鳴叫了？",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/35.gif",
+                                            "width": 540,
+                                            "height": 607
+                                        },
+                                        "box": [540,
+                                            607],
+                                        "labels": [],
+                                        "maxImageSize": 540,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 40": {
+                            "id": "article-block 40",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 作品成果",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 41": {
+                            "id": "article-block 41",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n摩斯密碼表摩斯密碼是一種利用長音和短音的排列組合來表示不同字母的編碼，照著摩斯密碼表，試試看跟遠方的朋友溝通吧！",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/mcs-to-linkit/37.gif",
+                                            "width": 472,
+                                            "height": 429
+                                        },
+                                        "box": [472,
+                                            429],
+                                        "labels": [],
+                                        "maxImageSize": 472,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
+                        "explanation 1": {
+                            "graded": false,
+                            "id": "explanation 1",
+                            "options": {
+                                "explanation": "教學課程由邱文盛老師、S4A教師社群、聯發科技教育基金會、均一教育平台(Junyi Academy)協力製作，採用[創用 CC 姓名標示-相同方式分享 4.0 國際授權條款釋出](https://creativecommons.org/licenses/by-sa/4.0/ \"\" \"_blank\")。課程網頁所顯示的 MediaTek, LinkKit, BlocklyDuino等圖標、文字與相關權利分屬個別組織或公司所有。\n\n聯發科LinkIt™ 7697物聯網應用開發板，可連接並控制各種外部感測器，並具備WiFi與藍芽功能可連結MediaTek Cloud Sandbox雲端平台，使用BlocklyDuino圖形化編輯器，拖拉組合程式積木，創作好玩、有趣又結合生活體驗的進階科技專題。\n",
+                                "hidePrompt": "- Acknowledgement",
+                                "showPrompt": "+ Acknowledgement",
+                                "widgets": {}
+                            },
+                            "type": "explanation",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
+                        "image 1": {
+                            "graded": true,
+                            "id": "image 1",
+                            "options": {
+                                "aspectRatio": 0.37058823529411766,
+                                "backgroundImage": {
+                                    "height": 28,
+                                    "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/home/10.gif",
+                                    "width": 75
+                                },
+                                "box": [
+                                    75,
+                                    28
+                                ],
+                                "labels": [],
+                                "maxImageSize": 435,
+                                "range": [
+                                    [
+                                        0,
+                                        10
+                                    ],
+                                    [
+                                        0,
+                                        10
+                                    ]
+                                ],
+                                "useBoxSize": true
+                            },
+                            "type": "image",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }
+                    }
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

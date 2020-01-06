@@ -7,8 +7,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\nARTICLESTYLEARTICLETEXT",
                                 "widgets": {
-                                    IFRAMEBLOCK
-                                    IMGBLOCK
+                                    IFRAMEBLOCKIMGBLOCK
                                 },
                                 "expandable": false,
                                 "expanded": false

@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 安裝開發環境\n我們已經有了電學觀念和認識了LinkIt 7697現在我們要把LinkIt 7697與電腦連結一起來試試看吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "articleBlock": "  6. 雲端應用  與MCS通訊互動\n\n# cloudservice\n我們已經完成了本機端的基礎輸入輸出課程接下來，這個單元將帶你透過內建的網路積木讓LinkIt 7697與網際網路連結，進行雲端應用哦！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n[[☃ article-block 16]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -20,7 +20,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 認識開發環境",
+                                "articleBlock": "\n\n\n\n# 你會學到的事",
                                 "widgets": {
                                     
                                 },
@@ -38,7 +38,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n\n\n使用Arduino IDE使用文字式程式編輯工具支援基礎的Arduino API，並且提供額外的Wi-Fi與藍芽函式庫使用Blocklyduino使用圖像式程式編輯工具透過拖拉積木的方式即可連接周邊元件模組與雲端服務使用LinkIt SDK使用文字式程式編輯工具可針對核心功能進行開發，適合職業工程師使用",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n\n\n認識並使用網路積木使用網路積木將感測資料上傳到MCS使用網路積木從MCS控制本機裝置",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -46,14 +46,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/2.gif",
-                                            "width": 371,
-                                            "height": 251
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/2.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [371,
-                                            251],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -77,14 +77,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/3.gif",
-                                            "width": 371,
-                                            "height": 250
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/3.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [371,
-                                            250],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -108,14 +108,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/4.gif",
-                                            "width": 371,
-                                            "height": 249
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/4.gif",
+                                            "width": 196,
+                                            "height": 196
                                         },
-                                        "box": [371,
-                                            249],
+                                        "box": [196,
+                                            196],
                                         "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 196,
                                         "range": [
                                             [
                                                 0,
@@ -149,7 +149,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 為了讓初學者容易使用，我們將以BlocklyDuino進行教學",
+                                "articleBlock": "\n\n\n\n# 設備需求",
                                 "widgets": {
                                     
                                 },
@@ -165,11 +165,135 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
+                                "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 連接電腦與LinkIt 7697",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n\n\nLinkIt 7697感測器擴充板可上網的電腦Android手機 ",
                                 "widgets": {
-                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/6.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/7.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/8.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/9.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -185,7 +309,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：連接LinkIt 7697與電腦✅ 拿出Micro－USB連接線，連接LinkIt 7697與電腦，並確認電源燈亮起。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n[[☃ image 5]]\n\n\n\nWiFi網路連線 (SSID, wifi-密碼)DHT11溫溼度模組無源蜂鳴器模組Micro-USB傳輸線杜邦連接線4條：1pin",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -193,14 +317,138 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/6.gif",
-                                            "width": 572,
-                                            "height": 322
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/10.gif",
+                                            "width": 170,
+                                            "height": 170
                                         },
-                                        "box": [572,
-                                            322],
+                                        "box": [170,
+                                            170],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/11.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/12.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/13.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 5": {
+                                    "graded": true,
+                                    "id": "image 5",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/14.gif",
+                                            "width": 170,
+                                            "height": 170
+                                        },
+                                        "box": [170,
+                                            170],
+                                        "labels": [],
+                                        "maxImageSize": 170,
                                         "range": [
                                             [
                                                 0,
@@ -234,7 +482,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並安裝USB驅動程式",
+                                "articleBlock": "\n\n\n\n# MCS簡介",
                                 "widgets": {
                                     
                                 },
@@ -250,42 +498,11 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖2：下載USB驅動程式和電腦所連接的硬體，例如：滑鼠、鍵盤，如果沒有驅動程式就無法正常運作！LinkIt 7697 也不例外！✅ 下載USB驅動程式：① 前往CP2102N的官方網站②  找到對應的Microsoft  Windows版本③ 下載 CP2102N USB to UART Bridge VCP Driver",
+                                "articleBlock": "\n\n\n\n# 透過MediaTek Cloud Service (MCS)，你可以輕鬆開發物聯網專案！像是線上即時溫濕度觀測站、或是遠端遙控蜂鳴器...等。我們可以將LinkIt 7697透過感測器蒐集的資料上傳到MCS（開發版 → MCS），也可以透過MCS的儀表板控制LinkIt 7697上的元件（MCS → 開發板）。更酷的是，MCS還提供附屬的手機應用程式，讓你能隨時隨地查看蒐集到的數據，並控制你的LinkIt 7697。了解更多：MediaTek Cloud Sandbox 介紹",
                                 "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/8.gif",
-                                            "width": 572,
-                                            "height": 187
-                                        },
-                                        "box": [572,
-                                            187],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -299,42 +516,11 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖3：開始安裝USB驅動程式✅ 安裝驅動程式① 開啟載好的CP2102N驅動程式② 點擊「下一步」完成安裝",
+                                "articleBlock": "\n\n\n\n# MCS雲端服務的應用簡介",
                                 "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/9.gif",
-                                            "width": 572,
-                                            "height": 311
-                                        },
-                                        "box": [572,
-                                            311],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -350,40 +536,9 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖4：成功安裝USB驅動程式③ 確認狀態為「可以使用」④ 點擊「完成」",
+                                "articleBlock": "\n\n\n\nMCS 的通道(Data Channel) 有分兩種。顯示通道 (稱為 DisplayChannel， 在開發板收集資料丟到雲端顯示， 方向主要是：LinkIt 7697 開發板 → MCS) 控制通道 (稱為 ControllerChannel， 從雲端控制開發板， 方向主要是：MCS → LinkIt 7697 開發板)",
                                 "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/10.gif",
-                                            "width": 572,
-                                            "height": 506
-                                        },
-                                        "box": [572,
-                                            506],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -397,9 +552,9 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
+                                "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並執行BlocklyDuino",
+                                "articleBlock": "\n\n\n\n1. Linkit 7697 開發版 → MCS",
                                 "widgets": {
                                     
                                 },
@@ -417,7 +572,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 下載BlocklyDuino      • 32位元 (Win32, 306MB)      • 64位元 (Win64, 316MB)",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n使用「更新 ( ) 顯示通道數值為 ( )」積木，就可以將LinkIt 7697透過感測器收集到的數值即時上傳至雲端上。",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -425,14 +580,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/12.gif",
-                                            "width": 271,
-                                            "height": 271
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/17.gif",
+                                            "width": 472,
+                                            "height": 107
                                         },
-                                        "box": [271,
-                                            271],
+                                        "box": [472,
+                                            107],
                                         "labels": [],
-                                        "maxImageSize": 271,
+                                        "maxImageSize": 472,
                                         "range": [
                                             [
                                                 0,
@@ -466,7 +621,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖6：解壓縮BlocklyDuino✅ 解壓縮下載的檔案① 選擇解壓縮後存放的位置② 點擊「確定」*注意：擺放路徑越短越好, 盡量就解壓縮在根目錄下，例如：C:\\ 或 D:\\。有些解壓縮軟體對於過長路徑會產生錯誤(例如某些版本的 WinRAR)，可以使用免費的7-zip來解壓縮。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n在MCS中製作「顯示器型態」的資料通道，就可以讀取與顯示上傳的資料。",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -474,14 +629,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/13.gif",
-                                            "width": 572,
-                                            "height": 365
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/18.gif",
+                                            "width": 351,
+                                            "height": 315
                                         },
-                                        "box": [572,
-                                            365],
+                                        "box": [351,
+                                            315],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 351,
                                         "range": [
                                             [
                                                 0,
@@ -515,7 +670,25 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖7：開啟BlocklyDuino③ 開啟 BlcoklDuino.exe在BlocklyDuino3 的檔案夾內，可以找到BlocklyDuino.exe。",
+                                "articleBlock": "\n\n\n\n2. MCS → LINKIT 7697 開發版",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 15": {
+                            "id": "article-block 15",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n使用「讀取 ( ) 控制通道數值」積木，可以接收到雲端傳送過來的數值。",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -523,14 +696,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/14.gif",
-                                            "width": 572,
-                                            "height": 437
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/19.gif",
+                                            "width": 245,
+                                            "height": 62
                                         },
-                                        "box": [572,
-                                            437],
+                                        "box": [245,
+                                            62],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 245,
                                         "range": [
                                             [
                                                 0,
@@ -557,47 +730,29 @@
                                 "major": 0,
                                 "minor": 0
                             }
-                        },"article-block 15": {
-                            "id": "article-block 15",
+                        },"article-block 16": {
+                            "id": "article-block 16",
                             "type": "article-block",
                             "graded": false,
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：成功開啟BlocklyDuino✅ 成功開啟BlocklyDuino囉！ ",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n在MCS中製作「控制器型態」的資料通道，可以讓我們從在MCS雲端控制開發版與感測器模組。",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/安裝開發環境/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
+                                    "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/15.gif",
-                                            "width": 572,
-                                            "height": 312
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/cloudservice/20.gif",
+                                            "width": 348,
+                                            "height": 314
                                         },
-                                        "box": [572,
-                                            312],
+                                        "box": [348,
+                                            314],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 348,
                                         "range": [
                                             [
                                                 0,

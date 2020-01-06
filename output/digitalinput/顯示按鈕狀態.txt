@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 安裝開發環境\n我們已經有了電學觀念和認識了LinkIt 7697現在我們要把LinkIt 7697與電腦連結一起來試試看吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "articleBlock": "  3. 數位輸入   按鈕模組開與關\n\n# 顯示按鈕狀態\n現在，我們知道按鈕被按下或放開時LinkIt7697會接收到低電位（0）或高電位（1）讓我們加入判斷條件，讓LinkIt7697直接顯示被按下或是放開吧 ！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -18,104 +18,78 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 認識開發環境",
-                                "widgets": {
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 3": {
-                            "id": "article-block 3",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n\n\n使用Arduino IDE使用文字式程式編輯工具支援基礎的Arduino API，並且提供額外的Wi-Fi與藍芽函式庫使用Blocklyduino使用圖像式程式編輯工具透過拖拉積木的方式即可連接周邊元件模組與雲端服務使用LinkIt SDK使用文字式程式編輯工具可針對核心功能進行開發，適合職業工程師使用",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n[[☃ iframe 2]]\n\n\n[[☃ image 1]]\n\n\n\n ",
                                 "widgets": {
-                                    "image 1": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://www.youtube.com/embed/u60V0-yPvDM",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 2": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitalinput/顯示按鈕狀態/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 3": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitalinput/顯示按鈕狀態/2.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/2.gif",
-                                            "width": 371,
-                                            "height": 251
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/1.gif",
+                                            "width": 572,
+                                            "height": 429
                                         },
-                                        "box": [371,
-                                            251],
+                                        "box": [572,
+                                            429],
                                         "labels": [],
-                                        "maxImageSize": 371,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 2": {
-                                    "graded": true,
-                                    "id": "image 2",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/3.gif",
-                                            "width": 371,
-                                            "height": 250
-                                        },
-                                        "box": [371,
-                                            250],
-                                        "labels": [],
-                                        "maxImageSize": 371,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 3": {
-                                    "graded": true,
-                                    "id": "image 3",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/4.gif",
-                                            "width": 371,
-                                            "height": 249
-                                        },
-                                        "box": [371,
-                                            249],
-                                        "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -142,16 +116,65 @@
                                 "major": 0,
                                 "minor": 0
                             }
-                        },"article-block 4": {
-                            "id": "article-block 4",
+                        },"article-block 3": {
+                            "id": "article-block 3",
                             "type": "article-block",
                             "graded": false,
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 為了讓初學者容易使用，我們將以BlocklyDuino進行教學",
+                                "articleBlock": "\n\n\n\n# 判斷按鈕是否按鈕",
                                 "widgets": {
                                     
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n因為按鈕的狀態值為0、1（代表低電位、或是高電位）兩種狀態，因此使用「如果... 否則...」使用條件判斷✅ 加入積木：「如果...否則...」",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/3.gif",
+                                            "width": 572,
+                                            "height": 514
+                                        },
+                                        "box": [572,
+                                            514],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -165,11 +188,42 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
+                                "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 連接電腦與LinkIt 7697",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n加入判斷的條件，判斷按鈕是否按下？✅ 加入積木：「數位讀取Pin2」 = 「高電位」在上一個步驟，我們已經知道：  「按鈕按下」會顯示「0」，代表「低電位」  「按鈕放開」會顯示「1」，代表「高電位」",
                                 "widgets": {
-                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/4.gif",
+                                            "width": 572,
+                                            "height": 333
+                                        },
+                                        "box": [572,
+                                            333],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -185,7 +239,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：連接LinkIt 7697與電腦✅ 拿出Micro－USB連接線，連接LinkIt 7697與電腦，並確認電源燈亮起。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n因此，如果讀取到的是「高電位」表示「按鈕放開」，所以要顯示「按鈕放開」；否則顯示「按鈕按下」。✅ 加入積木：在「執行」加入「序列埠印出（換行）  "按鈕放開"」在「否則」加入「序列埠印出（換行）  "按鈕按下"」",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -193,12 +247,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/6.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/5.gif",
                                             "width": 572,
-                                            "height": 322
+                                            "height": 371
                                         },
                                         "box": [572,
-                                            322],
+                                            371],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -232,11 +286,42 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
+                                "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並安裝USB驅動程式",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n最後，為了方便觀察，記得加入延遲時間哦！✅ 加入積木：「延遲毫秒 100」",
                                 "widgets": {
-                                    
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/6.gif",
+                                            "width": 572,
+                                            "height": 371
+                                        },
+                                        "box": [572,
+                                            371],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -252,7 +337,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖2：下載USB驅動程式和電腦所連接的硬體，例如：滑鼠、鍵盤，如果沒有驅動程式就無法正常運作！LinkIt 7697 也不例外！✅ 下載USB驅動程式：① 前往CP2102N的官方網站②  找到對應的Microsoft  Windows版本③ 下載 CP2102N USB to UART Bridge VCP Driver",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n完成！上傳程式積木，觀察效果吧！[初始化]沒有任何積木[重複執行]如果放開按鈕（Pin2等於高電位），螢幕顯示「按鈕放開」否則螢幕顯示「按鈕按下」延遲100毫秒",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -260,14 +345,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/8.gif",
-                                            "width": 572,
-                                            "height": 187
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/7.gif",
+                                            "width": 552,
+                                            "height": 346
                                         },
-                                        "box": [572,
-                                            187],
+                                        "box": [552,
+                                            346],
                                         "labels": [],
-                                        "maxImageSize": 572,
+                                        "maxImageSize": 552,
                                         "range": [
                                             [
                                                 0,
@@ -299,42 +384,11 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖3：開始安裝USB驅動程式✅ 安裝驅動程式① 開啟載好的CP2102N驅動程式② 點擊「下一步」完成安裝",
+                                "articleBlock": "\n\n\n\n# 作品成果",
                                 "widgets": {
-                                    "image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/9.gif",
-                                            "width": 572,
-                                            "height": 311
-                                        },
-                                        "box": [572,
-                                            311],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -348,9 +402,27 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 使用按鈕控制內建LED",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 11": {
+                            "id": "article-block 11",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖4：成功安裝USB驅動程式③ 確認狀態為「可以使用」④ 點擊「完成」",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n上一步我們讓按鈕按下時，畫面顯示是否按下。接下來，我們讓按鈕按下時，同時開啟內建的LED燈呢吧！✅ 加入積木：按鈕放開時，「內建LED狀態 低電位」按鈕按下時，「內建LED狀態 高電位」",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -358,12 +430,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/10.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/10.gif",
                                             "width": 572,
-                                            "height": 506
+                                            "height": 371
                                         },
                                         "box": [572,
-                                            506],
+                                            371],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -384,24 +456,6 @@
                                         "minor": 0
                                     }
                                 }
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 11": {
-                            "id": "article-block 11",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並執行BlocklyDuino",
-                                "widgets": {
-                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -417,7 +471,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 下載BlocklyDuino      • 32位元 (Win32, 306MB)      • 64位元 (Win64, 316MB)",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n完成了！確認你的積木程式與圖片是否相同。",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -425,14 +479,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/12.gif",
-                                            "width": 271,
-                                            "height": 271
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/11.gif",
+                                            "width": 534,
+                                            "height": 413
                                         },
-                                        "box": [271,
-                                            271],
+                                        "box": [534,
+                                            413],
                                         "labels": [],
-                                        "maxImageSize": 271,
+                                        "maxImageSize": 534,
                                         "range": [
                                             [
                                                 0,
@@ -466,7 +520,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖6：解壓縮BlocklyDuino✅ 解壓縮下載的檔案① 選擇解壓縮後存放的位置② 點擊「確定」*注意：擺放路徑越短越好, 盡量就解壓縮在根目錄下，例如：C:\\ 或 D:\\。有些解壓縮軟體對於過長路徑會產生錯誤(例如某些版本的 WinRAR)，可以使用免費的7-zip來解壓縮。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 把製作好的程式傳送到LinkIt7697中吧！① 確認COMport正確② 點擊上傳③ 傳送過程中可以在燒錄狀態中確認進度",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -474,12 +528,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/13.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/12.gif",
                                             "width": 572,
-                                            "height": 365
+                                            "height": 360
                                         },
                                         "box": [572,
-                                            365],
+                                            360],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -515,7 +569,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖7：開啟BlocklyDuino③ 開啟 BlcoklDuino.exe在BlocklyDuino3 的檔案夾內，可以找到BlocklyDuino.exe。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 開啟觀測窗，觀察序列埠印出的內容*注意：如果程式未傳送完成就開啟觀測窗，會造成錯誤哦",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -523,12 +577,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/14.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/顯示按鈕狀態/13.gif",
                                             "width": 572,
-                                            "height": 437
+                                            "height": 255
                                         },
                                         "box": [572,
-                                            437],
+                                            255],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -562,60 +616,11 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：成功開啟BlocklyDuino✅ 成功開啟BlocklyDuino囉！ ",
+                                "articleBlock": "\n\n\n\n# 作品成果",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/安裝開發環境/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
-                                    "graded": true,
-                                    "id": "image 1",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/15.gif",
-                                            "width": 572,
-                                            "height": 312
-                                        },
-                                        "box": [572,
-                                            312],
-                                        "labels": [],
-                                        "maxImageSize": 572,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false

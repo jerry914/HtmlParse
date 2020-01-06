@@ -7,7 +7,7 @@
                 "type": "article-block",
                 "graded": false,
                 "options": {
-                    "articleBlock": "  0. 初次使用   Linkit 7697入門\n\n# 安裝開發環境\n我們已經有了電學觀念和認識了LinkIt 7697現在我們要把LinkIt 7697與電腦連結一起來試試看吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "articleBlock": "  2. 類比輸出   改變LED亮度改變LED模組亮度\n\n# 改變led模組亮度\n我們完成了指定LED燈亮度並且閃爍那除了全亮與全暗之外還能指定那些亮度呢？\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n[[☃ article-block 8]]\n\n[[☃ article-block 9]]\n\n[[☃ article-block 10]]\n\n[[☃ article-block 11]]\n\n[[☃ article-block 12]]\n\n[[☃ article-block 13]]\n\n[[☃ article-block 14]]\n\n[[☃ article-block 15]]\n\n[[☃ article-block 16]]\n\n[[☃ article-block 17]]\n\n[[☃ article-block 18]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
                     "background": "#ddeeea",
                     "blockTitle": "",
                     "expandable": false,
@@ -18,104 +18,78 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "",
-                                "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 認識開發環境",
-                                "widgets": {
-                                    
-                                },
-                                "expandable": false,
-                                "expanded": false
-                            },
-                            "version": {
-                                "major": 0,
-                                "minor": 0
-                            }
-                        },"article-block 3": {
-                            "id": "article-block 3",
-                            "type": "article-block",
-                            "graded": false,
-                            "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n\n\n使用Arduino IDE使用文字式程式編輯工具支援基礎的Arduino API，並且提供額外的Wi-Fi與藍芽函式庫使用Blocklyduino使用圖像式程式編輯工具透過拖拉積木的方式即可連接周邊元件模組與雲端服務使用LinkIt SDK使用文字式程式編輯工具可針對核心功能進行開發，適合職業工程師使用",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n[[☃ iframe 2]]\n\n\n[[☃ image 1]]\n\n\n\n 流程圖：改變LED的亮度",
                                 "widgets": {
-                                    "image 1": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://www.youtube.com/embed/fdRZ4EztaOI",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 2": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 3": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/2.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/2.gif",
-                                            "width": 371,
-                                            "height": 251
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/1.gif",
+                                            "width": 547,
+                                            "height": 751
                                         },
-                                        "box": [371,
-                                            251],
+                                        "box": [547,
+                                            751],
                                         "labels": [],
-                                        "maxImageSize": 371,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 2": {
-                                    "graded": true,
-                                    "id": "image 2",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/3.gif",
-                                            "width": 371,
-                                            "height": 250
-                                        },
-                                        "box": [371,
-                                            250],
-                                        "labels": [],
-                                        "maxImageSize": 371,
-                                        "range": [
-                                            [
-                                                0,
-                                                10
-                                            ],
-                                            [
-                                                0,
-                                                10
-                                            ]
-                                        ],
-                                        "useBoxSize": false
-                                    },
-                                    "type": "image",
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 3": {
-                                    "graded": true,
-                                    "id": "image 3",
-                                    "options": {
-                                        "aspectRatio": 0.3352941176470588,
-                                        "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/4.gif",
-                                            "width": 371,
-                                            "height": 249
-                                        },
-                                        "box": [371,
-                                            249],
-                                        "labels": [],
-                                        "maxImageSize": 371,
+                                        "maxImageSize": 547,
                                         "range": [
                                             [
                                                 0,
@@ -142,16 +116,65 @@
                                 "major": 0,
                                 "minor": 0
                             }
-                        },"article-block 4": {
-                            "id": "article-block 4",
+                        },"article-block 3": {
+                            "id": "article-block 3",
                             "type": "article-block",
                             "graded": false,
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 為了讓初學者容易使用，我們將以BlocklyDuino進行教學",
+                                "articleBlock": "\n\n\n\n# 連接LED模組",
                                 "widgets": {
                                     
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ ① 拿出紅色LED模組✅ ② 拿出杜邦線，撕下三條一組，連接LED模組至D2（Pin2）位置注意，連接方式為：G接G、V接V、S接S",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/3.gif",
+                                            "width": 572,
+                                            "height": 331
+                                        },
+                                        "box": [572,
+                                            331],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -167,7 +190,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 連接電腦與LinkIt 7697",
+                                "articleBlock": "\n\n\n\n# 控制LED燈的開與關",
                                 "widgets": {
                                     
                                 },
@@ -185,7 +208,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖1：連接LinkIt 7697與電腦✅ 拿出Micro－USB連接線，連接LinkIt 7697與電腦，並確認電源燈亮起。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n\n\n✅ 加入積木：[ 初始化 ]沒有任何積木[ 重複執行 ]外接的LED燈（Pin2）點亮程度255（全亮）持續1秒外接的LED燈（Pin2）點亮程度0（熄滅）持續1秒你發現哪裡不同了嗎？這裡我們使用的是「類比寫入」的積木哦！",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -193,12 +216,43 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/6.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/5.gif",
                                             "width": 572,
-                                            "height": 322
+                                            "height": 334
                                         },
                                         "box": [572,
-                                            322],
+                                            334],
+                                        "labels": [],
+                                        "maxImageSize": 572,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/6.gif",
+                                            "width": 572,
+                                            "height": 389
+                                        },
+                                        "box": [572,
+                                            389],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -234,9 +288,27 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並安裝USB驅動程式",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n\n\n# 改變LED燈的亮度 ",
                                 "widgets": {
-                                    
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/2.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -252,7 +324,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖2：下載USB驅動程式和電腦所連接的硬體，例如：滑鼠、鍵盤，如果沒有驅動程式就無法正常運作！LinkIt 7697 也不例外！✅ 下載USB驅動程式：① 前往CP2102N的官方網站②  找到對應的Microsoft  Windows版本③ 下載 CP2102N USB to UART Bridge VCP Driver",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n使用類比輸出控制LED燈模組，除了開與關之外，還可以控制亮度哦試著在開與關之間，多加一種亮度吧！✅ 加入積木：■ 「類比寫入Pin［2］數值［64］」      ■ 「延遲毫秒［1000］」",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -260,12 +332,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/8.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/8.gif",
                                             "width": 572,
-                                            "height": 187
+                                            "height": 366
                                         },
                                         "box": [572,
-                                            187],
+                                            366],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -301,7 +373,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖3：開始安裝USB驅動程式✅ 安裝驅動程式① 開啟載好的CP2102N驅動程式② 點擊「下一步」完成安裝",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 完成！想一想，這樣的程式積木會有什麼效果？[初始化] 沒有任何積木[重複執行] 外接的LED燈（Pin2）點亮程度255（全亮） 持續1秒 外接的LED燈（Pin2）點亮程度64（微亮） 持續1秒 外接的LED燈（Pin2）點亮程度0（熄滅） 持續1秒",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -309,12 +381,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/9.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/9.gif",
                                             "width": 572,
-                                            "height": 311
+                                            "height": 470
                                         },
                                         "box": [572,
-                                            311],
+                                            470],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -350,7 +422,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖4：成功安裝USB驅動程式③ 確認狀態為「可以使用」④ 點擊「完成」",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 把製作好的程式傳送到LinkIt 7697中吧！① 確認COM port正確② 點擊上傳③ 傳送過程中可以在「燒錄狀態」中確認進度",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -358,12 +430,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/10.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/10.gif",
                                             "width": 572,
-                                            "height": 506
+                                            "height": 360
                                         },
                                         "box": [572,
-                                            506],
+                                            360],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -399,7 +471,7 @@
                             "options": {
                                 "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n\n\n# 下載並執行BlocklyDuino",
+                                "articleBlock": "\n\n\n\n# 再加入一種亮度",
                                 "widgets": {
                                     
                                 },
@@ -417,7 +489,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 下載BlocklyDuino      • 32位元 (Win32, 306MB)      • 64位元 (Win64, 316MB)",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n除了手動新增積木之外，我們也可以透過複製積木然後修改內容的方式新增積木哦！✅ 複製積木並修改成「類比寫入Pin［2］數值［32］」✅ 複製積木：「延遲毫秒［1000］」",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -425,14 +497,14 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/12.gif",
-                                            "width": 271,
-                                            "height": 271
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/12.gif",
+                                            "width": 572,
+                                            "height": 487
                                         },
-                                        "box": [271,
-                                            271],
+                                        "box": [572,
+                                            487],
                                         "labels": [],
-                                        "maxImageSize": 271,
+                                        "maxImageSize": 572,
                                         "range": [
                                             [
                                                 0,
@@ -466,7 +538,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖6：解壓縮BlocklyDuino✅ 解壓縮下載的檔案① 選擇解壓縮後存放的位置② 點擊「確定」*注意：擺放路徑越短越好, 盡量就解壓縮在根目錄下，例如：C:\\ 或 D:\\。有些解壓縮軟體對於過長路徑會產生錯誤(例如某些版本的 WinRAR)，可以使用免費的7-zip來解壓縮。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 完成！想一想，這樣的程式積木會有什麼效果？[初始化]沒有任何積木[重複執行] 外接的LED燈（Pin2）點亮程度255（全亮） 持續1秒 外接的LED燈（Pin2）點亮程度64（微亮） 持續1秒 外接的LED燈（Pin2）點亮程度32（微微亮） 持續1秒 外接的LED燈（Pin2）點亮程度0（熄滅） 持續1秒",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -474,12 +546,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/13.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/13.gif",
                                             "width": 572,
-                                            "height": 365
+                                            "height": 581
                                         },
                                         "box": [572,
-                                            365],
+                                            581],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -515,7 +587,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n圖7：開啟BlocklyDuino③ 開啟 BlcoklDuino.exe在BlocklyDuino3 的檔案夾內，可以找到BlocklyDuino.exe。",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n✅ 把製作好的程式傳送到LinkIt 7697中吧！① 確認COM port正確② 點擊上傳③ 傳送過程中可以在「燒錄狀態」中確認進度",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,
@@ -523,12 +595,12 @@
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/14.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/14.gif",
                                             "width": 572,
-                                            "height": 437
+                                            "height": 360
                                         },
                                         "box": [572,
-                                            437],
+                                            360],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [
@@ -562,15 +634,33 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
+                                "background": "",
                                 "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：成功開啟BlocklyDuino✅ 成功開啟BlocklyDuino囉！ ",
+                                "articleBlock": "\n\n\n\n# 作品成果",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 16": {
+                            "id": "article-block 16",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n[[☃ iframe 2]]\n\n\n\n\n#  ",
                                 "widgets": {
                                     "iframe 1": {
                                     "type": "iframe",
                                     "graded": true,
                                     "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/安裝開發環境/1.html",
+                                        "url": "https://www.youtube.com/embed/fdRZ4EztaOI",
                                         "settings": [
                                             {
                                                 "name": "",
@@ -584,18 +674,90 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"image 1": {
+                                },"iframe 2": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/3.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"iframe 3": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/4.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 17": {
+                            "id": "article-block 17",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# TIPS: 變數技巧",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 18": {
+                            "id": "article-block 18",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n除了複製積木之外，還有沒有更快的方法？常常更動的數值，可以使用變數取代，再修改變數的數值！",
+                                "widgets": {
+                                    "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {
                                         "aspectRatio": 0.3352941176470588,
                                         "backgroundImage": {
-                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/getstart/安裝開發環境/15.gif",
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/analogoutput/改變led模組亮度/17.gif",
                                             "width": 572,
-                                            "height": 312
+                                            "height": 294
                                         },
                                         "box": [572,
-                                            312],
+                                            294],
                                         "labels": [],
                                         "maxImageSize": 572,
                                         "range": [

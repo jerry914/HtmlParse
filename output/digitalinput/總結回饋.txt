@@ -1,0 +1,335 @@
+{
+    "question": {
+        "content": "[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "  3. 數位輸入   按鈕模組開與關總結 / 回饋\n\n# 總結回饋\n太棒了，我們完成使用了外接按鈕模組並且按鈕被按下或是放開時會直接顯示狀態最後讓我們回顧一下我們完成的內容吧！\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n\n[[☃ article-block 7]]\n\n\n\n[[☃ explanation 1]]\n\n[[☃ image 1]]",
+                    "background": "#ddeeea",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {
+                        "article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 教學內容回顧",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n[[☃ image 2]]\n\n[[☃ image 3]]\n\n[[☃ image 4]]\n\n\n\n認識按鈕模組使用數位腳位學習數位輸入使用條件判斷偵測按鈕是否被按下更換成其他數位輸入模組",
+                                "widgets": {
+                                    "image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/總結回饋/2.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/總結回饋/3.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/總結回饋/4.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/digitalinput/總結回饋/5.gif",
+                                            "width": 196,
+                                            "height": 196
+                                        },
+                                        "box": [196,
+                                            196],
+                                        "labels": [],
+                                        "maxImageSize": 196,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 想一想",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 5": {
+                            "id": "article-block 5",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n[[☃ iframe 1]]\n\n\n\n\n#  ",
+                                "widgets": {
+                                    "iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitalinput/總結回饋/1.html",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n# 分享與討論",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 7": {
+                            "id": "article-block 7",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fff",
+                                "blockTitle": "",
+                                "articleBlock": "\n\n\n\n■ 除了顯示按鈕的狀態，我們還可以做什麼？可不可以加入更多按鈕模組？■ 除了按下與放開，能不能偵測按住按鈕幾秒後有不同的效果？那能不能偵測放開按紐幾秒後有不同的效果？■ 我們可以判斷按鈕按下時顯示按下或放開，那能不能按鈕按下時點亮LED燈呢？",
+                                "widgets": {
+                                    
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
+                        "explanation 1": {
+                            "graded": false,
+                            "id": "explanation 1",
+                            "options": {
+                                "explanation": "教學課程由邱文盛老師、S4A教師社群、聯發科技教育基金會、均一教育平台(Junyi Academy)協力製作，採用[創用 CC 姓名標示-相同方式分享 4.0 國際授權條款釋出](https://creativecommons.org/licenses/by-sa/4.0/ \"\" \"_blank\")。課程網頁所顯示的 MediaTek, LinkKit, BlocklyDuino等圖標、文字與相關權利分屬個別組織或公司所有。\n\n聯發科LinkIt™ 7697物聯網應用開發板，可連接並控制各種外部感測器，並具備WiFi與藍芽功能可連結MediaTek Cloud Sandbox雲端平台，使用BlocklyDuino圖形化編輯器，拖拉組合程式積木，創作好玩、有趣又結合生活體驗的進階科技專題。\n",
+                                "hidePrompt": "- Acknowledgement",
+                                "showPrompt": "+ Acknowledgement",
+                                "widgets": {}
+                            },
+                            "type": "explanation",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },
+                        "image 1": {
+                            "graded": true,
+                            "id": "image 1",
+                            "options": {
+                                "aspectRatio": 0.37058823529411766,
+                                "backgroundImage": {
+                                    "height": 28,
+                                    "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/img/home/10.gif",
+                                    "width": 75
+                                },
+                                "box": [
+                                    75,
+                                    28
+                                ],
+                                "labels": [],
+                                "maxImageSize": 435,
+                                "range": [
+                                    [
+                                        0,
+                                        10
+                                    ],
+                                    [
+                                        0,
+                                        10
+                                    ]
+                                ],
+                                "useBoxSize": true
+                            },
+                            "type": "image",
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }
+                    }
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

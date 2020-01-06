@@ -73,7 +73,10 @@ def cont_wiget_generate(sectionText,sectionImgCount,sectionBubbleCount,route,sec
             articleBlock = articleBlock.replace("[[☃ image 1]]",artBlk_generate(sectionImgCount[a+1],'m'))
             articleBlock = articleBlock.replace("ARTICLESTYLE",'')
         else:
-            articleBlock = articleBlock.replace("IMGBLOCK",'')
+            if(articleBlock.find(",IMGBLOCK")>0):
+                articleBlock = articleBlock.replace(",IMGBLOCK",'')
+            else:
+                articleBlock = articleBlock.replace("IMGBLOCK",'')
             articleBlock = articleBlock.replace("[[☃ image 1]]",'')
             articleBlock = articleBlock.replace("#fff",'')
             articleBlock = articleBlock.replace("ARTICLESTYLE",'# ')
