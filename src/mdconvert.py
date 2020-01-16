@@ -44,6 +44,13 @@ except Exception as e:
     content = conText
     print(e)
 content = content.replace("(images/","(https://raw.githubusercontent.com/jerry914/interactive-badge/master/en/images/")
+while 1:
+    if(content.find('<a')>=0):
+        a_link = get_tag(url,'a')
+        content = content[:content.index('<a')]+"["+a_link.text+"](\""+a_link["href"]+"\",\" \" \"_blank\")"+content[content.index('</a>')+4:]
+    else:
+        break
+
 articleBlockIdx = 1
 articleBlockContent = ""
 while 1:
