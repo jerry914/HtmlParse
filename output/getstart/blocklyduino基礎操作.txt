@@ -468,25 +468,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：新增參數積木新增參數積木：在空格接上參數或變數積木時，有些積木若類型不對（形狀不對），會接不上去。 ",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/blocklyduino基礎操作/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
+                                    "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {

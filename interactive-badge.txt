@@ -1,0 +1,69 @@
+{
+    "question": {
+        "content": "## Introduction\n\nYou are going to make an interactive badge, that will show your mood to your friends.\n\n__Instructions__: If you're reading this online, press __A__ on the micro:bit below to display a happy face, and __B__ to show a sad face.\n\n\n[[☃ iframe 1]]\n\n### Additional information for club leaders\n\nIf you need to print this project, please use the [Printer friendly version](https://projects.raspberrypi.org/en/projects/interactive-badge/print).\n\n\n[[☃ article-block 1]]\n\n\n[[☃ article-block 2]]",
+        "images": {},
+        "widgets": {"iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://makecode.microbit.org/---run?id=_M6yLfbemfPUv",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 Club leader notes",
+                                "articleBlock": "---\n\n---\n\n\n## Introduction:\nIn this project, children will learn how to use input events to execute sequences of instructions, by making an interactive badge. Pressing the buttons on the micro:bit will change the image that's displayed.\n\n## Resources\nFor this project, the [MakeCode (PXT)](http://jumpto.cc/pxt-new) microbit editor should be used.\n\nYou can find a completed version of this project at [makecode.microbit.org/#pub:90418-17495-16581-63753](https://makecode.microbit.org/#pub:90418-17495-16581-63753), and the compiled .hex file can be downloaded by clicking the 'Download Project Materials' link for this project, which contains:\n\n+ microbit-Interactive-Badge.hex\n\n## Learning Objectives\n+ Inputs (`on button pressed`);\n+ Sequencing instructions.\n\nThis project covers elements from the following strands of the [Raspberry Pi Digital Making Curriculum](http://rpf.io/curriculum):\n\n+ [Use basic programming constructs to create simple programs.](https://www.raspberrypi.org/curriculum/programming/creator)\n\n## Challenges\n+ \"Displaying a sad face\" - adding code to a new `on button pressed` event;\n+ \"Create your own interactive badge!\" - consolidation on skills learnt in this project.\n\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 Project materials",
+                                "articleBlock": "---\n\n---\n\n\n## Club leader resources\n* [online completed project](https://makecode.microbit.org/#pub:90418-17495-16581-63753)\n* [.hex project file to transfer onto your micro:bit](resources/microbit-Interactive-Badge.hex)\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

@@ -58,24 +58,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitaloutput/連接led模組/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
@@ -625,24 +607,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitaloutput/連接led模組/3.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 }
                                 },
                                 "expandable": false,
@@ -679,25 +643,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n你知道模組與擴充版上的GVS，代表什麼意思嗎？ ]",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitaloutput/連接led模組/3.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
+                                    "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {

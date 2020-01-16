@@ -58,24 +58,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analoginput/天黑自動開燈/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
@@ -257,7 +239,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n當條件滿足時，顯示「白天」；否則顯示「晚上」。✅ 加入積木：在「執行」加入「序列埠印出（換行）  "白天"」在「否則」加入「序列埠印出（換行）  "晚上"」",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n當條件滿足時，顯示「白天」；否則顯示「晚上」。✅ 加入積木：在「執行」加入「序列埠印出（換行）  「白天」在「否則」加入「序列埠印出（換行）  「晚上」」",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,

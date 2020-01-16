@@ -241,24 +241,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitaloutput/改變閃爍頻率/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 }
                                 },
                                 "expandable": false,
@@ -478,24 +460,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitaloutput/改變閃爍頻率/3.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 }
                                 },
                                 "expandable": false,
@@ -568,25 +532,7 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitaloutput/改變閃爍頻率/4.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false

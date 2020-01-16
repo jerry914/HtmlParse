@@ -43,7 +43,7 @@ def artBlk_wigit_generate(num,Type,route,idx):
             string = string.replace("https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/ROUTE/BUBBLEIDX.html",videoLL[videoIdx])
             resuleString+=string
             a=1
-        for n in range(num):
+        for n in range(num-1):
             templete = junyiJSONgenerate.JSON_open('src\Templete\JSONiframe')
             string = templete.replace("IFRAMEIDX",str(n+1+a))
             string = string.replace("ROUTE",route)
@@ -86,4 +86,3 @@ def cont_wiget_generate(sectionText,sectionImgCount,sectionBubbleCount,route,sec
         result+=articleBlock
 
     return result[:-1]
-                        

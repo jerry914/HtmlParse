@@ -58,24 +58,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/dedicated-module/輸出模組蜂鳴器模組/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
@@ -643,24 +625,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/dedicated-module/輸出模組蜂鳴器模組/3.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 }
                                 },
                                 "expandable": false,
@@ -849,25 +813,7 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/dedicated-module/輸出模組蜂鳴器模組/4.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },
+                                }
                                 },
                                 "expandable": false,
                                 "expanded": false

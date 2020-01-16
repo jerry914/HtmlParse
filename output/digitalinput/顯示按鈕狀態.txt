@@ -58,24 +58,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/digitalinput/顯示按鈕狀態/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
@@ -239,7 +221,7 @@
                             "options": {
                                 "background": "#fff",
                                 "blockTitle": "",
-                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n因此，如果讀取到的是「高電位」表示「按鈕放開」，所以要顯示「按鈕放開」；否則顯示「按鈕按下」。✅ 加入積木：在「執行」加入「序列埠印出（換行）  "按鈕放開"」在「否則」加入「序列埠印出（換行）  "按鈕按下"」",
+                                "articleBlock": "\n\n[[☃ image 1]]\n\n\n\n因此，如果讀取到的是「高電位」表示「按鈕放開」，所以要顯示「按鈕放開」；否則顯示「按鈕按下」。✅ 加入積木：在「執行」加入「序列埠印出（換行）  按鈕放開」在「否則」加入「序列埠印出（換行）  按鈕按下」",
                                 "widgets": {
                                     "image 1": {
                                     "graded": true,

@@ -200,25 +200,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n\n\n\n\n#  ",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analoginput/總結回饋/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false

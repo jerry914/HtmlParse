@@ -3,13 +3,12 @@
                             "type": "article-block",
                             "graded": false,
                             "options": {
-                                "background": "#fff",
-                                "blockTitle": "",
-                                "articleBlock": "\n[[☃ iframe 1]]\n[[☃ image 1]]\n\nARTICLESTYLEARTICLETEXT",
+                                "background": "#fee",
+                                "blockTitle": "TITLE",
+                                "articleBlock": "CONTENT",
                                 "widgets": {
-                                    IFRAMEBLOCKIMGBLOCK
                                 },
-                                "expandable": false,
+                                "expandable": true,
                                 "expanded": false
                             },
                             "version": {

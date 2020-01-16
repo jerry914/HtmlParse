@@ -58,24 +58,6 @@
                                         "major": 0,
                                         "minor": 0
                                     }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
                                 },"image 1": {
                                     "graded": true,
                                     "id": "image 1",
@@ -290,25 +272,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n\n\n\n\n# 改變LED燈的亮度 ",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/2.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                }
+                                    
                                 },
                                 "expandable": false,
                                 "expanded": false
@@ -679,24 +643,6 @@
                                     "graded": true,
                                     "options": {
                                         "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/3.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"iframe 3": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/analogoutput/改變led模組亮度/4.html",
                                         "settings": [
                                             {
                                                 "name": "",

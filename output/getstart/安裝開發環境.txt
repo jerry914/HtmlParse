@@ -566,25 +566,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖8：成功開啟BlocklyDuino✅ 成功開啟BlocklyDuino囉！ ",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/安裝開發環境/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
+                                    "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {

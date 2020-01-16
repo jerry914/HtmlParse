@@ -339,25 +339,7 @@
                                 "blockTitle": "",
                                 "articleBlock": "\n[[☃ iframe 1]]\n\n\n[[☃ image 1]]\n\n\n\n圖3：組合LinkIt 7697與擴充板將LinkIt 7697順著擴充版上的白線安裝（右圖3） ",
                                 "widgets": {
-                                    "iframe 1": {
-                                    "type": "iframe",
-                                    "graded": true,
-                                    "options": {
-                                        "url": "https://ys-fang.github.io/Linkit7697Learning-Resources/bubble/getstart/認識linkit-7697與擴充板/1.html",
-                                        "settings": [
-                                            {
-                                                "name": "",
-                                                "value": ""
-                                            }
-                                        ],
-                                        "width": 560,
-                                        "height": 320
-                                    },
-                                    "version": {
-                                        "major": 0,
-                                        "minor": 0
-                                    }
-                                },"image 1": {
+                                    "image 1": {
                                     "graded": true,
                                     "id": "image 1",
                                     "options": {
