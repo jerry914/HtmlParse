@@ -1,0 +1,189 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Costumes\n\nNow you will make your singer look like she's singing!\n\n--- task ---\n\nYou can change how your singer sprite looks when it's clicked by creating a new costume. Click on the Costumes tab, and you'll see the singer costume.\n\n[[☃ image 1]]\n\n--- /task ---\n\n--- task ---\n\nRight-click on the costume and then click on **duplicate** to create a copy of it.\n\n[[☃ image 2]]\n\n--- /task ---\n\n--- task ---\n\nClick on the new costume (called 'Singer2'), and then select the line tool and draw lines so it looks like your singer is making a sound.\n\n[[☃ image 3]]\n\n--- /task ---\n\n--- task ---\n\nThe names of the costumes aren't very helpful at the moment. Type into the text boxes of the costumes to change their names to 'not singing' and 'singing'.\n\n[[☃ image 4]]\n\n--- /task ---\n\n--- task ---\n\nNow that you have two different costumes for your singer, you can choose which costume is displayed! Add these two code blocks to your singer sprite:\n\n```blocks3\nwhen this sprite clicked\n+switch costume to (singing v)\nplay sound (singer1 v) until done\n+switch costume to (not singing v)\n```\n\nThe code block for changing the costume is in the `Looks`{:class=\"block3looks\"} section.\n\n--- /task ---\n\n--- task ---\n\nClick on your singer on the stage. Does she look like she is singing?\n\n--- /task ---\n\n--- task ---\n\nNow make your drum look like it's being hit!\n\n[[☃ image 5]]\n\n- Use the instructions for changing your singer sprite's costume to help you.\n\nRemember to test that your new code works!\n\n--- /task ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 5": {
+                                    "graded": true,
+                                    "id": "image 5",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-drum-final.png",
+                                            "width": 138,
+                                            "height": 142
+                                        },
+                                        "box": [138,
+                                            142],
+                                        "labels": [],
+                                        "maxImageSize": 138,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-singer-name-annotated.png",
+                                            "width": 655,
+                                            "height": 444
+                                        },
+                                        "box": [655,
+                                            444],
+                                        "labels": [],
+                                        "maxImageSize": 655,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-singer-click.png",
+                                            "width": 944,
+                                            "height": 732
+                                        },
+                                        "box": [944,
+                                            732],
+                                        "labels": [],
+                                        "maxImageSize": 944,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-singer-duplicate.png",
+                                            "width": 307,
+                                            "height": 239
+                                        },
+                                        "box": [307,
+                                            239],
+                                        "labels": [],
+                                        "maxImageSize": 307,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-singer-costume-annotated.png",
+                                            "width": 708,
+                                            "height": 461
+                                        },
+                                        "box": [708,
+                                            461],
+                                        "labels": [],
+                                        "maxImageSize": 708,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

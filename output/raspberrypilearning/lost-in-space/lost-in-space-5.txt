@@ -1,0 +1,51 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Floating monkey\n\nNow you will add a monkey who's lost in space to your animation!\n\n--- task ---\n\nStart by adding the 'monkey' sprite from the library.\n\n![Adding a monkey sprite]\n\n--- /task ---\n\nClick on your new monkey sprite and then click on **Costumes** so that you can edit how the monkey looks.\n\n--- task ---\n\nSet the fill to be transparent by selecting the red line. For the outline, set a white colour by moving the Saturation slider to `0`.\n\n![Make white colour]\n\n--- /task ---\n\n--- task ---\n\nClick on the **circle** tool and then use it to draw a white space helmet around the monkey's head.\n\n![Monkey space helmet]\n\n--- /task ---\n\n--- task ---\n\nCan you add code to your monkey sprite so that it spins slowly in a circle forever?\n\n[[☃ article-block 1]]-- /task ---\n\nTest and save your project. You'll have to click on the red **stop** button to end this animation, as it runs forever!\n\n![Test the spinning monkey]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ffe7c9",
+                                "blockTitle": "💡 我需要一點提示",
+                                "articleBlock": " hint ---\n\nWhen the green __flag is clicked__, your monkey sprite should __turn__ in a circle __forever__.\n\n\n\n\nHere are the code blocks you need:\n\n```blocks3\nforever\nend\n\nturn cw (15) degrees\n\nwhen flag clicked\n```\n\n\n\n\nHere's the code to make your monkey spin:\n\n![Monkey sprite]\n\n```blocks3\nwhen flag clicked\nforever\n    turn cw (1) degrees\n```\n\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

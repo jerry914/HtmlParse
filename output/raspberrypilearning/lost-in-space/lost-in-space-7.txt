@@ -1,0 +1,51 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Shining star\n\nNow you will combine loops to make a shining star.\n\n--- task ---\n\nAdd a 'star' sprite to your stage.\n\n![Adding a star sprite]\n\n--- /task ---\n\n--- task ---\n\nCan you add code to your star sprite to make the star repeatedly grow and shrink?\n\n![Testing a shining star]\n\n[[☃ article-block 1]]- /task ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ffe7c9",
+                                "blockTitle": "💡 我需要一點提示",
+                                "articleBlock": " hint ---\n\nWhen the green __flag is clicked__, your star sprite should __change size__ to get bigger a few times, and then __change size__ to get smaller a few times. It should do this so that it gets bigger and then smaller __forever__ and looks like it's shining light.\n\n\n\n\nHere are the code blocks you need:\n\n```blocks3\nrepeat (10)\nend\n\nwhen flag clicked\n\nrepeat (10)\nend\n\nchange size by (10)\n\nchange size by (10)\n\nforever\n```\n\n\n\n\nHere's the code to make your star grow and shrink:\n\n![Star sprite]\n\n```blocks3\nwhen flag clicked\nforever\n    repeat (20)\n        change size by (2)\n    end\n    repeat (20)\n        change size by (-2)\n    end\n\n```\n\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

@@ -1,0 +1,65 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Challenge: make your own animation\n\nStop your space animation, save it, and start a new Scratch project.\n\nUse what you've learned in this project to make your own animation. It can be anything you like, but try to make your animation match the background you choose. Here are some examples:\n\n[[☃ image 1]]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/lost-in-space/zh-CN/images/space-egs.png",
+                                            "width": 739,
+                                            "height": 277
+                                        },
+                                        "box": [739,
+                                            277],
+                                        "labels": [],
+                                        "maxImageSize": 739,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

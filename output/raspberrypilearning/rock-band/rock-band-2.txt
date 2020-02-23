@@ -1,0 +1,291 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Sprites\n\nBefore you can start coding, you'll need to add in a 'thing' to code. In Scratch, these 'things' are called __sprites__.\n\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n[[☃ article-block 4]]\n\n[[☃ article-block 5]]\n\n[[☃ article-block 6]]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 5": {
+                                    "graded": true,
+                                    "id": "image 5",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-name-annotated.png",
+                                            "width": 547,
+                                            "height": 48
+                                        },
+                                        "box": [547,
+                                            48],
+                                        "labels": [],
+                                        "maxImageSize": 547,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-sprite-drum.png",
+                                            "width": 445,
+                                            "height": 221
+                                        },
+                                        "box": [445,
+                                            221],
+                                        "labels": [],
+                                        "maxImageSize": 445,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-sprite-library.png",
+                                            "width": 256,
+                                            "height": 199
+                                        },
+                                        "box": [256,
+                                            199],
+                                        "labels": [],
+                                        "maxImageSize": 256,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-delete-annotated.png",
+                                            "width": 149,
+                                            "height": 124
+                                        },
+                                        "box": [149,
+                                            124],
+                                        "labels": [],
+                                        "maxImageSize": 149,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-scratch.png",
+                                            "width": 1173,
+                                            "height": 755
+                                        },
+                                        "box": [1173,
+                                            755],
+                                        "labels": [],
+                                        "maxImageSize": 1173,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ded",
+                                "blockTitle": "",
+                                "articleBlock": "\nOpen a new Scratch project.\n\n**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratch-new \"_blank\" \"title\").\n\n**Offline:** open a new project in the offline editor.\n\nIf you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff \"_blank\" \"title\").\n\nIt looks like this:\n\n[[☃ image 1]]\n\n",
+                                "widgets": {
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ded",
+                                "blockTitle": "",
+                                "articleBlock": "\nThe cat sprite that you can see is the Scratch mascot. You don't need it for this game, so get rid of it by right-clicking it and then clicking on **delete**.\n\n[[☃ image 2]]\n\n",
+                                "widgets": {
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ded",
+                                "blockTitle": "",
+                                "articleBlock": "\nNext, click on **Choose sprite from library** to open up a list of all the Scratch sprites.\n\n[[☃ image 3]]\n\n",
+                                "widgets": {
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 4": {
+                            "id": "article-block 4",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ded",
+                                "blockTitle": "",
+                                "articleBlock": "\nScroll down until you see a drum sprite. Click on a drum to add it to your project.\n\n[[☃ image 4]]\n\n",
+                                "widgets": {
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 5": {
+                            "id": "article-block 5",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ded",
+                                "blockTitle": "",
+                                "articleBlock": "\nClick and drag the drum to the bottom of the Stage.\n\n",
+                                "widgets": {
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 6": {
+                            "id": "article-block 6",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ded",
+                                "blockTitle": "",
+                                "articleBlock": "\nGive your program a name by typing into the text box at the top.\n\n![name]\n\nThen click on **File**, and then on **Save now** to save your project.\n\nIf you are not online or don't have a Scratch account, you can save a copy of your project by clicking on **Save to your computer** instead.\n\n[[☃ image 5]]\n\n",
+                                "widgets": {
+                                },
+                                "expandable": false,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

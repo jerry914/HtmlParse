@@ -1,0 +1,34 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## What next?\n\nNow that you've built your first Scratch project, why not take a look at the [Lost in space](https://projects.raspberrypi.org/zh-CN/projects/lost-in-space?utm_source=pathway&utm_medium=whatnext&utm_campaign=projects) Scratch project?\n\n--- no-print ---\n\nClick on the green flag to see the animation.\n\n<div class=\"scratch-preview\">\n  <iframe allowtransparency=\"true\" width=\"485\" height=\"402\" src=\"https://scratch.mit.edu/projects/embed/276873231/?autostart=false\" frameborder=\"0\" scrolling=\"no\"></iframe>\n  <img src=\"images/space-final.png\">\n</div>\n\n--- /no-print ---\n\n--- print-only ---\n\n![Complete project]\n\n--- /print-only ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

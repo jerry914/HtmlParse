@@ -1,0 +1,175 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Challenge: improve your band\n\nUse what you've learnt in this project to make your own band! You can create any instruments you like — look at the available instrument sprites and sounds to get some ideas.\n\n[[☃ image 1]]\n\n```blocks3\nwhen this sprite clicked\nset instrument to (\(1\) Piano v)\nplay note (60) for (0.25) beats\n```\n\nYour instruments don't have to be realistic though. For example, you could make a piano made out of muffins!\n\n[[☃ image 2]]\n\nYou can use more sprites from the library, and you can also paint your own sprites!\n\n[[☃ image 3]]\n\n[[☃ article-block 1]]\n\nIf you have a microphone, you can record your own sounds, and you can even use a webcam to hit your instruments!\n\n[[☃ image 4]]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 4": {
+                                    "graded": true,
+                                    "id": "image 4",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-io.png",
+                                            "width": 317,
+                                            "height": 381
+                                        },
+                                        "box": [317,
+                                            381],
+                                        "labels": [],
+                                        "maxImageSize": 317,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-draw.png",
+                                            "width": 193,
+                                            "height": 260
+                                        },
+                                        "box": [193,
+                                            260],
+                                        "labels": [],
+                                        "maxImageSize": 193,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-piano.png",
+                                            "width": 610,
+                                            "height": 462
+                                        },
+                                        "box": [610,
+                                            462],
+                                        "labels": [],
+                                        "maxImageSize": 610,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-ideas-sounds.png",
+                                            "width": 1638,
+                                            "height": 900
+                                        },
+                                        "box": [1638,
+                                            900],
+                                        "labels": [],
+                                        "maxImageSize": 1638,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 Why is my sprite 'jumping' when it changes costume?",
+                                "articleBlock": "---\n\n---\n\nWhen creating your own sprite, you may find that when you click the sprite, it 'jumps' as it changes costume. This is because the two costumes aren't centered in the same place.\n\nTo fix this, make sure that the centres of your sprite's costumes are the same.\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

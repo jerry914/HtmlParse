@@ -1,0 +1,103 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "\n\nThis is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/zh-CN/projects/rock-band-scratch2).\n\n\n\n## Introduction\n\nLearn how to code your own musical instruments!\n\n### What you will make\n\n\n\nClick the green flag to begin. Then, click on the singer or the drum to hear what they sound like.\n\n[[☃ iframe 1]]\n\n\n\n--- print-only ---\n\nYou will make a game where you can click on the singer or the drum to hear singing or drum sounds.\n\n![game screenshot]\n\n--- /print-only ---\n\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"iframe 1": {
+                                    "type": "iframe",
+                                    "graded": true,
+                                    "options": {
+                                        "url": "https://scratch.mit.edu/projects/embed/276872220/?autostart=false",
+                                        "settings": [
+                                            {
+                                                "name": "",
+                                                "value": ""
+                                            }
+                                        ],
+                                        "width": 560,
+                                        "height": 320
+                                    },
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 What you will learn",
+                                "articleBlock": "---\n\n---\n- Use code to change a sprite's costume in Scratch\n- Use code to make sprites react to input in Scratch\n- Add sounds to a sprite in Scratch\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 What you will need",
+                                "articleBlock": "---\n\n---\n\n#### Hardware\n\n+ A computer capable of running Scratch 3\n\n#### Software\n\n+ Scratch 3 (either [online](http://rpf.io/scratchon \"_blank\" \"title\") or [offline](http://rpf.io/scratchoff \"_blank\" \"title\"))\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 Additional information for educators",
+                                "articleBlock": "---\n\n---\n\n\n\nIf you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/zh-CN/projects/rock-band/print \"_blank\" \"title\").\n\n\n\nYou can find the [completed project here](http://rpf.io/p/zh-CN/rock-band-get).\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

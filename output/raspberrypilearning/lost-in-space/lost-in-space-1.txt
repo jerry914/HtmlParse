@@ -1,0 +1,85 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "--- no-print ---\n\nThis is the **Scratch 3** version of the project. There is also a [Scratch 2 version of the project](https://projects.raspberrypi.org/zh-CN/projects/lost-in-space-scratch2).\n\n--- /no-print ---\n\n## Introduction\n\nYou are going to learn how to program your own animation!\n\n### What you will make\n\n--- no-print ---\n\nClick on the green flag to see the animation.\n\n<div class=\"scratch-preview\">\n  <iframe allowtransparency=\"true\" width=\"485\" height=\"402\" src=\"https://scratch.mit.edu/projects/embed/276873231/?autostart=false\" frameborder=\"0\" scrolling=\"no\"></iframe>\n  <img src=\"images/space-final.png\">\n</div>\n\n--- /no-print ---\n\n--- print-only ---\n\n![Complete project]\n\n--- /print-only ---\n\n[[☃ article-block 1]]\n\n[[☃ article-block 2]]\n\n[[☃ article-block 3]]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 What you will need",
+                                "articleBlock": "---\n\n---\n\n### Hardware\n\n+ A computer capable of running Scratch 3\n\n### Software\n\n+ Scratch 3 (either [online](http://rpf.io/scratchon \"_blank\" \"title\") or [offline](http://rpf.io/scratchoff \"_blank\" \"title\"))\n\n### Downloads\n\n+ None\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 2": {
+                            "id": "article-block 2",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 What you will learn",
+                                "articleBlock": "---\n\n---\n\n- Use a repeat loop to animate a sprite in Scratch\n- Use a forever loop to repeat an animation indefinitely\n- Understand that loops can be nested within each other\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        },"article-block 3": {
+                            "id": "article-block 3",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#fee",
+                                "blockTitle": "📍 Additional information for educators",
+                                "articleBlock": "---\n\n---\n\nIf you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/zh-CN/projects/lost-in-space/print \"_blank\" \"title\").\n\nYou can find the [completed project here](http://rpf.io/p/zh-CN/lost-in-space-get \"_blank\" \"title\").\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

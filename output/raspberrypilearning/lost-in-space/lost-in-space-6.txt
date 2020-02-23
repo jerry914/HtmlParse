@@ -1,0 +1,51 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Bouncing asteroid\n\nNow you will add a floating space rock to your animation.\n\n--- task ---\n\nAdd a 'rock' sprite to your animation.\n\n![Adding a rock sprite]\n\n--- /task ---\n\n--- task ---\n\nCan you add code for your rock sprite so that the rock bounces around the stage?\n\n![Testing a bouncing rock]\n\n[[☃ article-block 1]]- /task ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ffe7c9",
+                                "blockTitle": "💡 我需要一點提示",
+                                "articleBlock": " hint ---\n\nWhen the green __flag is clicked__, your rock sprite should __move__ and __bounce__ around the stage __forever__.\n\n\n\n\nHere are the code blocks you need:\n\n```blocks3\nmove (10) steps\n\nif on edge bounce\n\nwhen flag clicked\n\nforever\n```\n\nYou can also set a more interesting starting direction for the rock sprite with one of these blocks:\n\n```blocks3\nturn cw (15) degrees\n\npoint towards (Earth v)\n```\n\n\n\n\nHere's the code for making your rock bounce around the stage:\n\n![Rock sprite]\n\n```blocks3\nwhen flag clicked\npoint towards (Earth v)\nforever\n    move (2) steps\n    if on edge, bounce\n```\n\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

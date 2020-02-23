@@ -1,0 +1,34 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Challenge: improve your animation\n\nCan you change the numbers in your animation code so that:\n\n+ The spaceship moves until it touches the Earth?\n+ The spaceship moves more slowly towards the Earth?\n\nYou'll need to change the numbers in this block:\n\n![Rocketship sprite]\n\n```blocks3\nglide (1) secs to x:(0) y:(0)\n```\n\n[[[generic-scratch3-coordinates]]]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

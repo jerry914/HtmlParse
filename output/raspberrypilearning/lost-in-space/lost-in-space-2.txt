@@ -1,0 +1,34 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Animating a spaceship\n\nYour first step will be to create a spaceship that flies towards the Earth!\n\n--- task ---\n\nOpen a new Scratch project.\n\n**Online:** open a new online Scratch project at [rpf.io/scratch-new](http://rpf.io/scratchon \"_blank\" \"title\").\n\n**Offline:** open a new project in the offline editor.\n\nIf you need to download and install the Scratch offline editor, you can find it at [rpf.io/scratchoff](http://rpf.io/scratchoff \"_blank\" \"title\").\n\n--- /task ---\n\n--- task ---\n\nAdd 'rocketship' and 'Earth' sprites to your Stage.\n\n![Spaceship and Earth sprites]\n\n[[[generic-scratch3-sprite-from-library]]]\n\n--- /task ---\n\n--- task ---\n\nAdd the 'Stars' backdrop to your Stage.\n\n![A space backdrop]\n\n--- /task ---\n\n--- task ---\n\nClick on your spaceship sprite, and click on the **Costumes** tab.\n\n![Sprite costume]\n\n--- /task ---\n\n--- task ---\n\nUse the **arrow** tool to click and drag a box around the whole spaceship image. Then click on the circular **rotate** handle, and rotate the image until it is on its side.\n\n![Rotating a costume]\n\n--- /task ---\n\n--- task ---\n\nAdd this code to your spaceship sprite:\n\n![Spaceship sprite]\n\n```blocks3\nwhen flag clicked\npoint in direction (0)\ngo to x:(-150) y:(-150)\nsay [Let's go] for (2) seconds\npoint towards (Earth v)\nglide (1) secs to x:(0) y:(0)\n```\n\nChange the numbers in the code blocks you've added so that the code is exactly the same as above.\n\n--- /task ---\n\nIf you click the green flag, you should see the spaceship speak, turn, and glide towards the centre of the stage.\n\n![Testing a spaceship animation]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

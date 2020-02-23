@@ -1,0 +1,96 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Challenge: improving your drum\n\nCan you change the sound that the drum makes when it's clicked?\n\n[[☃ image 1]]\n\nCan you also get the drum to make a sound when the space bar is pressed? You'll need to use this `event`{:class=\"block3events\"} block:\n\n```blocks3\nwhen [space v] key pressed\n```\n\nIf you want to copy your existing code, right-click on it and then click on **duplicate**.\n\n[[☃ image 2]]\n\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-duplicate-code.png",
+                                            "width": 399,
+                                            "height": 213
+                                        },
+                                        "box": [399,
+                                            213],
+                                        "labels": [],
+                                        "maxImageSize": 399,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-drum-sound.png",
+                                            "width": 391,
+                                            "height": 405
+                                        },
+                                        "box": [391,
+                                            405],
+                                        "labels": [],
+                                        "maxImageSize": 391,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

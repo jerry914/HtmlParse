@@ -1,0 +1,65 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Making a drum\n\nNow you will add code to your drum so that the drum makes a sound when it's clicked.\n\nYou can find the code blocks in the Scripts tab, and they are all colour-coded!\n\n--- task ---\n\nFirst add the **Music** extension so you can play instruments.\n\nClick on the **Add extension** button in the bottom left-hand corner.\n\n![add extension button highlighted]\n\nClick on the **Music** extension to add it.\n\n![music extension highlighted]\n\n--- /task ---\n\n--- task ---\n\nClick on the drum sprite, and then drag these two blocks into the code area on the right:\n\n```blocks3\nwhen this sprite clicked\nplay drum (\(1\) Snare Drum v) for (0.25) beats\n```\n\n--- no-print ---\n\n[[☃ image 1]]\n\n--- /no-print ---\n\nMake sure that the blocks are connected together (like LEGO bricks).\n\n--- /task ---\n\n--- task ---\n\nClick on the drum to try out your new instrument!\n\n--- /task ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/add-extension-annotated.png",
+                                            "width": 444,
+                                            "height": 327
+                                        },
+                                        "box": [444,
+                                            327],
+                                        "labels": [],
+                                        "maxImageSize": 444,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

@@ -2,6 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import os
 from PIL import Image
+from io import BytesIO
+import requests as req
 
 def download_single_img(url,filePath):
     pic=requests.get(url)
@@ -19,6 +21,19 @@ def download_single_img(url,filePath):
     print("Image Download !")
 
 def search_img_width(path):
+    response = req.get(path)
+    img = Image.open(BytesIO(response.content))
+    # img = Image.open(path)
+    imgSize = img.size
+    w = img.width
+    h = img.height
+    f = img.format
+    # print(imgSize)
+    # print(w, h, f)
+# https://jerry914.github.io/Linkit7697Learning-Resources/img/DIR/NAME.gif
+    return img
+
+def search_img_type(path):
     img = Image.open(path)
     imgSize = img.size
     w = img.width
@@ -26,5 +41,4 @@ def search_img_width(path):
     f = img.format
     print(imgSize)
     print(w, h, f)
-# https://jerry914.github.io/Linkit7697Learning-Resources/img/DIR/NAME.gif
-    return img
+    return img.f

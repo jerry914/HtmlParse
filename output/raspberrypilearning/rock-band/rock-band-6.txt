@@ -1,0 +1,127 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Making a singer\n\nNow you will add a singer to your band!\n\n--- task ---\n\nAdd a singer sprite to your Stage.\n\n[[☃ image 1]]\n\n[[[generic-scratch3-sprite-from-library]]]\n\n--- /task ---\n\n--- task ---\n\nBefore you can make your singer sing, you need to add a sound to your singer sprite. Make sure that you have selected your singer sprite, then click on the Sounds tab, and click on **Choose a sound**:\n\n[[☃ image 2]]\n\n--- /task ---\n\n--- task ---\n\nClick on **Voice** in the list at the top, and then choose a sound to add to your sprite.\n\n[[☃ image 3]]\n\n--- /task ---\n\n--- task ---\n\nTo use the sound, add the following code blocks to your singer sprite:\n\n```blocks3\nwhen this sprite clicked\nplay sound (singer1 v) until done\n```\n\n--- /task ---\n\n--- task ---\n\nClick on your singer on the stage and see what happens. Does she sing?\n\n--- /task ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 3": {
+                                    "graded": true,
+                                    "id": "image 3",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-choose-sound.png",
+                                            "width": 1639,
+                                            "height": 840
+                                        },
+                                        "box": [1639,
+                                            840],
+                                        "labels": [],
+                                        "maxImageSize": 1639,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 2": {
+                                    "graded": true,
+                                    "id": "image 2",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-import-sound-annotated.png",
+                                            "width": 1638,
+                                            "height": 844
+                                        },
+                                        "box": [1638,
+                                            844],
+                                        "labels": [],
+                                        "maxImageSize": 1638,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/rock-band/zh-CN/images/band-singer-mic.png",
+                                            "width": 525,
+                                            "height": 254
+                                        },
+                                        "box": [525,
+                                            254],
+                                        "labels": [],
+                                        "maxImageSize": 525,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

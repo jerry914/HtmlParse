@@ -14,7 +14,7 @@ def get_tag_text(url,tag):
         print('Exception: %s' %(e))
         return None
 rooturl = 'https://sites.google.com/junyiacademy.org/linkit7697'
-url = 'https://sites.google.com/junyiacademy.org/linkit7697/getstart/%E5%9F%BA%E7%A4%8E%E9%9B%BB%E5%AD%B8%E8%A7%80%E5%BF%B5'
+url = 'https://projects.raspberrypi.org/en/codeclub/microbit'
 res = requests.get(url)
 soup = BeautifulSoup(res.text, 'html.parser')
 # filePath = str(FILEPATH)

@@ -1,0 +1,51 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Animation using loops\n\nAnother way to animate the spaceship is to tell it to move a small amount many times\n\n--- task ---\n\nDelete the `glide`{:class=\"block3motion\"} block from your code. To do this, drag the block off the Code area and drop it back where the other single code blocks are.\n\n![Spaceship sprite]\n\n```blocks3\nwhen flag clicked\npoint in direction (0)\ngo to x:(-150) y:(-150)\nsay [Let's go] for (2) seconds\npoint towards (Earth v)\n- glide (1) secs to x:(0) y:(0)\n```\n\n--- /task ---\n\n--- task ---\n\nNow use a `repeat`{:class=\"block3control\"} block to move your spaceship towards the Earth?\n\n![Testing a spaceship animation]\n\n![Spaceship sprite]\n\n```blocks3\nwhen flag clicked\npoint in direction (0)\ngo to x:(-150) y:(-150)\nsay [Let's go] for (2) seconds\npoint towards (Earth v)\n+ repeat (200)\n    move (2) steps\n```\n\nTest and save your code. Your spaceship should move towards the Earth exactly as before, but this time it uses a `repeat`{:class=\"block3control\"} block.\n\n--- /task ---\n\n--- task ---\n\nNext add code to your spaceship sprite so that the spaceship changes colour as it moves towards Earth?\n\nUse this block:\n\n![Spaceship sprite]\n\n```blocks3\nwhen flag clicked\npoint in direction (0)\ngo to x:(-150) y:(-150)\nsay [Let's go] for (2) seconds\npoint towards (Earth v)\nrepeat (200)\n    move (2) steps\n+    change [color v] effect by (25)\n```\n\nTest and save your code.\n\n![Testing a colour-changing spaceship]\n\n--- /task ---\n\n--- task ---\n\nCan you make your spaceship get smaller as it moves towards Earth?\n\n[[☃ article-block 1]]-- /task ---\n\nTest and save your code. Your spaceship should now get smaller as it moves. Test your spaceship a __second time__. Is it the right size when it starts?\n\n![Testing a shrinking spaceship]\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ffe7c9",
+                                "blockTitle": "💡 我需要一點提示",
+                                "articleBlock": "- hint ---\n\nYour spaceship should start at `100% size`{:class=\"blocklooks\"}, and then `change size`{:class=\"blocklooks\"} by a small amount each time it moves.\n\n\n\n\n\nYou will need to add these blocks to your code:\n\n![Spaceship sprite]\n\n```blocks3\nchange size by (10)\n\nset size to (100) %\n```\n\n\n\n\n\nYour code should look like this:\n\n![Spaceship sprite]\n\n```blocks3\nwhen flag clicked\nset size to (100) %\npoint in direction (0)\ngo to x:(-150) y:(-150)\nsay [Let's go] for (2) seconds\npoint towards (Earth v)\nrepeat (200)\n    move (2) steps\n    change [color v] effect by (25)\n+   change size by (-3)\n```\n\n\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}

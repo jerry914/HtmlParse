@@ -1,0 +1,82 @@
+{
+    "question": {
+        "content": "\n\n[[☃ article-block 1]]",
+        "images": {},
+        "widgets": {
+            "article-block 1": {
+                "type": "article-block",
+                "graded": false,
+                "options": {
+                    "articleBlock": "## Animate a ghost\n\n--- task ---\n\nOpen a new empty Scratch project.\n\n[[[generic-scratch3-new-project]]]\n\n--- /task ---\n\n--- task ---\n\nAdd in a new ghost sprite and a suitable Stage backdrop.\n\n[[☃ image 1]]\n\n[[[generic-scratch3-sprite-from-library]]]\n\n[[[generic-scratch3-backdrop-from-library]]]\n\n--- /task ---\n\n--- task ---\n\nAdd code to your ghost sprite so that the ghost appears and disappears forever when the green flag is clicked.\n\n[[☃ article-block 1]]-- /task ---\n\n--- task ---\n\nTest and save your project.\n\n[[[generic-scratch3-saving]]]\n\n--- /task ---\n",
+                    "background": "#fff",
+                    "blockTitle": "",
+                    "expandable": false,
+                    "expanded": false,
+                    "widgets": {"image 1": {
+                                    "graded": true,
+                                    "id": "image 1",
+                                    "options": {
+                                        "aspectRatio": 0.3352941176470588,
+                                        "backgroundImage": {
+                                            "url": "https://raw.githubusercontent.com/ys-fang/Code-Club-Learning-Resources/master/ghostbusters/zh-CN/images/ghost-ghost.png",
+                                            "width": 477,
+                                            "height": 358
+                                        },
+                                        "box": [477,
+                                            358],
+                                        "labels": [],
+                                        "maxImageSize": 477,
+                                        "range": [
+                                            [
+                                                0,
+                                                10
+                                            ],
+                                            [
+                                                0,
+                                                10
+                                            ]
+                                        ],
+                                        "useBoxSize": false
+                                    },
+                                    "type": "image",
+                                    "version": {
+                                        "major": 0,
+                                        "minor": 0
+                                    }
+                                },"article-block 1": {
+                            "id": "article-block 1",
+                            "type": "article-block",
+                            "graded": false,
+                            "options": {
+                                "background": "#ffe7c9",
+                                "blockTitle": "💡 我需要一點提示",
+                                "articleBlock": " hint ---\n\nOnce the `green flag is clicked`{:class=\"block3events\"}, your ghost should `hide`{:class=\"block3looks\"} for `one second`{:class=\"block3control\"} and then `show`{:class=\"block3looks\"} for `one second`{:class=\"block3control\"}. It needs to do this `forever`{:class=\"block3control\"}.\n\n\n\n\nHere are the code blocks you need:\n\n![ghost-sprite]\n\n```blocks3\nhide\n\nshow\n\nforever\nend\n\nwait (1) seconds\n\nwait (1) seconds\n\nwhen flag clicked\n```\n\n\n\n\nThis is what your code should look like:\n\n![ghost-sprite]\n\n```blocks3\nwhen flag clicked\nforever\nhide\nwait (1) seconds\nshow\nwait (1) seconds\nend\n```\n\n\n",
+                                "widgets": {
+                                },
+                                "expandable": true,
+                                "expanded": false
+                            },
+                            "version": {
+                                "major": 0,
+                                "minor": 0
+                            }
+                        }}
+                },
+                "version": {
+                    "major": 0,
+                    "minor": 0
+                }
+            }
+        }
+    },
+    "answerArea": {
+        "type": "multiple",
+        "options": {},
+        "calculator": false
+    },
+    "itemDataVersion": {
+        "major": 0,
+        "minor": 1
+    },
+    "hints": []
+}
